@@ -18,6 +18,9 @@ Analogical, isomorphic, similar or closely related to these "prophecies", servin
 
 ## Original publications in Bulgarian
 
+А "pre-prophecy" from 1999, the essay: "Where the world goes?" (to the creation of the Thinking Machine - The Machine God)
+https://github.com/Twenkid/Theory-of-Universe-and-Mind/blob/main/1999.md
+
 http://eim.twenkid.com/old/razum
 https://www.oocities.org/eimworld/razum/
 https://www.oocities.org/todprog/ese/proekt.htm
