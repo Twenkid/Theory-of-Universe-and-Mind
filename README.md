@@ -64,11 +64,11 @@ An AGI strategy, about May-June 2003:
 https://www.oocities.org/todprog/ese/proekt.htm
 
 
-| Bulgarian        | Translated           | Notes  |
-| ------------- |:-------------:| -----:|
-| ...      |... | ... |
-| ...      |... | ... |
-| Матрицата в "Матрицата" е матрица в матрицата      |The Matrix in "The Matrix" is a matrix in the Matrix <br> https://medium.com/@todorarnaudov/the-matrix-in-the-matrix-is-a-matrix-in-the-matrix-895e86c5f002 | ... |
+| Bulgarian        | Published | English           | Notes  |
+| ------------- |:-------------:| -----:|  -----:|
+| Къде отиваш свят? - създаването на мислещата машина - машината Бог <br>https://github.com/Twenkid/Theory-of-Universe-and-Mind/blob/main/1999.md     |1999 | "World, where you go?" - the creation of the thinking machine - machine God | Essay, Radio "Plovdiv", consolation prize|
+|   |
+| Матрицата в "Матрицата" е матрица в матрицата      | 2003 | The Matrix in "The Matrix" is a matrix in the Matrix <br> https://medium.com/@todorarnaudov/the-matrix-in-the-matrix-is-a-matrix-in-the-matrix-895e86c5f002 | ... |
 
 
 
