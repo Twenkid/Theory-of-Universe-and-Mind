@@ -6,12 +6,17 @@ Analogical, isomorphic, similar or closely related to these "prophecies", servin
 * Jeff Hawkins' "On intelligence"/Memory-prediction framework
 * Karl Friston's "Free Energy Principle"/"Active Inference"
 * Joscha Bach's discussions on Universe and Mind in podcasts up to now, 2022-2023 - in many aspects, except a few details about circular word plays about  "existence" and "real"-ness, are almost identical to the ones and the reasoning expressed bellow, 20 years earlier
-* Michael Levin's "Scale-Free Cognition" frameworks
+* Michael Levin's "Scale-Free Cognition" framework,  “Technological Approach to Mind Everywhere (TAME): an experimentally-
+grounded framework for understanding diverse bodies and minds" (2022), Cognitive lightcone" ...
 * Reinforcement learning directions and frameworks; constraints such as bounded rationality in multiagent systems, in the "prophecies" mapped and proven by their match in the interdisciplinary context such as society, states etc.
 * Directions for "the future"/"next decade" etc. of AI/Deep Learning (as of 2022-2023) such as compositionality, multiscale, multiresolution, multiagent bounded rationality etc. - suggested in the 2001-2004 prophecies right from the start
 * Causality instead of probability-only modeling
 * The theories about Mind, (general) intelligence as hierarchical prediction of the future sensory input and motor outputs (causation) (generative models, models of the world etc.); for "minimizing the prediction error" (Friton's "Free energy principle") are isomorphic
 * The theory in Bobby Azarian's book "The Romance of Reality: How the Universe Organizes Itself to Create Life, Consciousness, and Cosmic Complexity" - https://www.amazon.com/Romance-Reality-Organizes-Consciousness-Complexity/dp/1637740441#:~:text=%E2%80%9CThe%20Romance%20of%20Reality%20is,systems%2C%20in%20a%20grand%20ballet declared as radically new and ground breaking for science, as it suggests that Universe is evolving to "Omega point" and it is not random, has similar discoveries, conclusions and generalisations. For example compare the intro on the page of the book at "Amazon"  just with the intro and points 0. and 1. from the work _"Concept about the Unviersal Predetermination", Part 3, 2003_: https://research.twenkid.com/agi/2010/en/Todor_Arnaudov_Theory_of_Universe_and_Mind_3.pdf   https://www.oocities.org/eimworld/3/25/pred-3.htm
+
+*Other related ideas*
+* G. Georgiev, and I. Georgiev, The least action and the metric of an organized
+system. Open Syst Inf Dyn 9 (2002) 371-380. (cited in Levin's " “Technological Approach to Mind Everywhere (TAME): ...")
 
 *  ...
 * More detailed and exhaustive comparisons and display of the matches to come.
