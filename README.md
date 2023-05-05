@@ -16,7 +16,7 @@ grounded framework for understanding diverse bodies and minds" (2022), Cognitive
 
 *Other related ideas*
 * G. Georgiev, and I. Georgiev, The least action and the metric of an organized
-system. Open Syst Inf Dyn 9 (2002) 371-380. (cited in Levin's " “Technological Approach to Mind Everywhere (TAME): ...")
+system. Open Syst Inf Dyn 9 (2002) 371-380. (cited in Levin's " “Technological Approach to Mind Everywhere (TAME): ...") - note that the authors are also Bulgarian
 
 *  ...
 * More detailed and exhaustive comparisons and display of the matches to come.
