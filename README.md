@@ -33,13 +33,13 @@ https://www.oocities.org/todprog/ese/proekt.htm
 
 Materials for the world's first university course in AGI, 2010-2011
 
-https://research.twenkid.com/agi/2010/
-https://research.twenkid.com/agi/2010/en
-https://research.twenkid.com/agi/2010/en/Todor_Arnaudov_Theory_of_Hierarchical_Universal_Simulators_of_universes_Eng_MTR_3.pdf
-https://research.twenkid.com/agi/2010/en/Todor_Arnaudov_Theory_of_Universe_and_Mind_3.pdf
-https://research.twenkid.com/agi/2010/en/Todor_Arnaudov_Theory_of_Universe_and_Mind_4.pdf
-https://research.twenkid.com/agi/2010/en/Whats_wrong_with_NLP_links.htm
-https://research.twenkid.com/agi/2010/en/General_Intelligence_Principles_Caffe_Sci_2009_MTR.pdf
+* https://research.twenkid.com/agi/2010/
+* https://research.twenkid.com/agi/2010/en
+* https://research.twenkid.com/agi/2010/en/Todor_Arnaudov_Theory_of_Hierarchical_Universal_Simulators_of_universes_Eng_MTR_3.pdf
+* https://research.twenkid.com/agi/2010/en/Todor_Arnaudov_Theory_of_Universe_and_Mind_3.pdf
+* https://research.twenkid.com/agi/2010/en/Todor_Arnaudov_Theory_of_Universe_and_Mind_4.pdf
+* https://research.twenkid.com/agi/2010/en/Whats_wrong_with_NLP_links.htm
+* https://research.twenkid.com/agi/2010/en/General_Intelligence_Principles_Caffe_Sci_2009_MTR.pdf
 
 A translation of one 2004 work:
 http://artificial-mind.blogspot.com/2010/01/semantic-analysis-of-sentence.html
@@ -49,14 +49,14 @@ http://artificial-mind.blogspot.com/2010/01/semantic-analysis-of-sentence.html
 * Part 3 (и български): Motivation is dependent on local and specific stimuli, not general ones. Pleasure and displeasure as goal-state indicators. Reinforcement learning.
 * Part 4 : Intelligence: search for the biggest cumulative reward for a given period ahead, based on given model of the rewards. Reinforcement learning.
 
-http://artificial-mind.blogspot.com/2010/01/semantic-analysis-of-sentence.html
-http://artificial-mind.blogspot.com/2010/02/causes-and-reasons-for-any-particular.html
-http://artificial-mind.blogspot.com/2010/02/motivation-is-dependent-on-local-and.html
-http://artificial-mind.blogspot.com/2010/02/intelligence-search-for-biggest.html
+* http://artificial-mind.blogspot.com/2010/01/semantic-analysis-of-sentence.html
+* http://artificial-mind.blogspot.com/2010/02/causes-and-reasons-for-any-particular.html
+* http://artificial-mind.blogspot.com/2010/02/motivation-is-dependent-on-local-and.html
+* http://artificial-mind.blogspot.com/2010/02/intelligence-search-for-biggest.html
 
 
 ...
-Works in Bulgarian
+## Works in Bulgarian
 
 The first AGI-related article in "The Sacred Computer" e-zine defining AGI and "Seed AI" (Зародиш на разум): April 2001.
 https://www.oocities.org/eimworld/eimworld6/eimmain6.html
