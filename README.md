@@ -25,11 +25,15 @@ system. Open Syst Inf Dyn 9 (2002) 371-380. (cited in Levin's " “Technological
 ## Original publications in Bulgarian
 
 А "pre-prophecy" from 1999, the essay: "Where the world goes?" (to the creation of the Thinking Machine - The Machine God)
-https://github.com/Twenkid/Theory-of-Universe-and-Mind/blob/main/1999.md
+* https://github.com/Twenkid/Theory-of-Universe-and-Mind/blob/main/1999.md
 
-http://eim.twenkid.com/old/razum
-https://www.oocities.org/eimworld/razum/
-https://www.oocities.org/todprog/ese/proekt.htm
+* http://eim.twenkid.com/old/razum
+* https://www.oocities.org/eimworld/razum/
+
+*Also*
+
+* https://www.oocities.org/todprog/ese/proekt.htm - AGI interdisciplinary institute strategy, the claim about the general algorithm etc., 2003
+* https://www.oocities.org/eimworld/eim22n/eim24/otsechka.htm - Truth, Line-drawing/tracing (see CogAlg/SuperCogAlg and future works), 2003
 
 Materials for the world's first university course in AGI, 2010-2011
 
