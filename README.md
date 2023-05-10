@@ -28,17 +28,14 @@ system. Open Syst Inf Dyn 9 (2002) 371-380. (cited in Levin's " “Technological
 
 А "pre-prophecy" from 1999, the essay: "Where the world goes?" (to the creation of the Thinking Machine - The Machine God)
 * https://github.com/Twenkid/Theory-of-Universe-and-Mind/blob/main/1999.md
-
 * http://eim.twenkid.com/old/razum
 * https://www.oocities.org/eimworld/razum/
 
 *Also*
-
 * https://www.oocities.org/todprog/ese/proekt.htm - AGI interdisciplinary institute strategy, the claim about the general algorithm etc., 2003
 * https://www.oocities.org/eimworld/eim22n/eim24/otsechka.htm - Truth, Line-drawing/tracing (see CogAlg/SuperCogAlg and future works), 2003
 
 Materials for the world's first university course in AGI, 2010-2011
-
 * https://research.twenkid.com/agi/2010/
 * https://research.twenkid.com/agi/2010/en
 * https://research.twenkid.com/agi/2010/en/Todor_Arnaudov_Theory_of_Hierarchical_Universal_Simulators_of_universes_Eng_MTR_3.pdf
@@ -54,12 +51,10 @@ http://artificial-mind.blogspot.com/2010/01/semantic-analysis-of-sentence.html
 * Part 2 (и български): Causes and reasons for human actions. Searching for causes. Whether higher or lower levels control. Control Units. Reinforcement learning. 
 * Part 3 (и български): Motivation is dependent on local and specific stimuli, not general ones. Pleasure and displeasure as goal-state indicators. Reinforcement learning.
 * Part 4 : Intelligence: search for the biggest cumulative reward for a given period ahead, based on given model of the rewards. Reinforcement learning.
-
 * http://artificial-mind.blogspot.com/2010/01/semantic-analysis-of-sentence.html
 * http://artificial-mind.blogspot.com/2010/02/causes-and-reasons-for-any-particular.html
 * http://artificial-mind.blogspot.com/2010/02/motivation-is-dependent-on-local-and.html
 * http://artificial-mind.blogspot.com/2010/02/intelligence-search-for-biggest.html
-
 
 ...
 ## Direct Links to Works | Преки връзки към произведения
@@ -96,15 +91,12 @@ https://www.oocities.org/todprog/ese/proekt.htm
 <li><a href="http://www.oocities.org/eimworld/eim17/predopredelenost.htm">Схващане за всеобщата предопределеност</a> (бр.17, юли/2002)<br>
 <li><a href="http://www.oocities.org/eimworld/eimworld13/izint_13.html">Човекът и Мислещата машина </a>(Анализ на възможността да се създаде Мислеща Машина и някои недостатъци на човека и органичната материя пред нея)</a>, брой 13-ти на "Свещеният сметач", декември 2001 г.<br>&nbsp
 
-
 | Bulgarian        | Published | English           | Notes  |
 | ------------- |:-------------:| -----:|  -----:|
 | Къде отиваш свят? - създаването на мислещата машина - машината Бог <br>https://github.com/Twenkid/Theory-of-Universe-and-Mind/blob/main/1999.md     |12.1999 | "World, where you go?" - the creation of the thinking machine - machine God | Essay, Radio "Plovdiv", incentive prize|
 |   |
 | Човекът и Мислещата машина (Анализ на възможността да се създаде Мислеща Машина и някои недостатъци на човека и органичната материя пред нея), брой 13-ти на "Свещеният сметач", декември 2001 г.  https://www.oocities.org/eimworld/eimworld13/izint_13.html <br>  http://eim.twenkid.com/old/eimworld/eimworld13/izint_13.html |12.2001 | "Man and Thinking Machine (Analysis of the possibility to create a Thinking Machine and some of man and organic matter compared to the machine), issue #13 of e-zine "The Sacred Computer", 12/2001 | |
 | Матрицата в "Матрицата" е матрица в матрицата      | 2003 | The Matrix in "The Matrix" is a matrix in the Matrix <br> https://medium.com/@todorarnaudov/the-matrix-in-the-matrix-is-a-matrix-in-the-matrix-895e86c5f002 | ... |
-
-
 
 
 
