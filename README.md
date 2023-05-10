@@ -62,7 +62,7 @@ http://artificial-mind.blogspot.com/2010/01/semantic-analysis-of-sentence.html
 
 
 ...
-## Other works | Други произведения
+## Direct Links to Works | Преки връзки към произведения
 
 The first AGI-related article in "The Sacred Computer" e-zine defining AGI and "Seed AI" (Зародиш на разум): April 2001. (Bulgarian)
 https://www.oocities.org/eimworld/eimworld6/eimmain6.html
