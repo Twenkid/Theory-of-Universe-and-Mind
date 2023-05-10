@@ -70,12 +70,42 @@ https://www.oocities.org/eimworld/eimworld6/eimmain6.html
 An AGI strategy, about May-June 2003: (Bulgarian)
 https://www.oocities.org/todprog/ese/proekt.htm
 
+*In oocities.org - geocities archive or archive.org: change "www.oocities.org" to "www.geocities.com" and check in Archive.org
+<li><a href="http://www.oocities.org/eimworld/4/30/30.htm" target="new">Разговори за Изкуствен разум между Тош и тайнствения тип Астер Трафиков "Ловеца", известен още като... Галина "ТХ" Славина</a> (бр.30, септ. 2004)  (in archive.org)
+<li><a href="http://www.oocities.org/eimworld/4/29/pred4.htm" target="new">
+Вселена и разум 4 ("Схващане за всеобщата предопределеност 4")</a> - произход на повторенията на събития в различни равнища на Вселенския сметач и на нецеливите, за преживяващия ги разум, съвпадения с ниска вероятност; мисли за мисленето, анализ на смисъла на изречение; за реда и безредието; за сънища; за енергия; за поезия; виж сам.  (бр.29, апр. 2004)
+<li><a href="https://web.archive.org/web/20041020165305/http://bgit.net/?id=65395">Анализ на смисъла на изречение въз основа на базата знания на действаща мислеща машина. Мисли за смисъла и изкуствената мисъл.</a>(бр.29, апр. 2004).<br> Ако връзката към bgit не работи, използвай тази: <a href="netid-65395.html"> Анализ на смисъла...</a>
+<li><a href="https://web.archive.org/web/20041020165359/http://bgit.net/?id=65835"> Абстрактна теория за "изключенията от правилата" в изчислителните машини. Теория за управляващите устройства и управлението.</a> (бр.29, апр. 2004)
+<li><a href="http://www.oocities.org/eimworld/4/29/istikrat.htm">"Истината"</a> - разказ за Мислещата машина; съкратена версия на повестта (29, апр.2004)<br>&nbsp
+<li><a href="http://www.oocities.org/eimworld/4/28/28.htm">
+"Ада"</a> - фантастичен фантасмагоричен техничарски програмистки кибернетичен философски приключенски любовен пародиен комичен трагичен  роман (бр.28, февр. 2004)
+<li><a href="http://www.oocities.org/eimworld/3/26/istinata11.htm">
+"Истината"</a> - повест за Мислещата машина; второ издание (бр.26, септември 2003)
+<li><a href="http://www.oocities.org/eimworld/3/25/pred-3.htm">
+Схващане за всеобщата предопределеност 3</a> (бр.25, юли-август 2003)
+<li><a href="http://www.oocities.org/eimworld/eim22n/eim24/otsechka.htm">Как се чертае отсечка</a> (бр.24, юни 2003) <!-- http://bgit.net/?id=57054 -->
+<li><a href="http://www.oocities.org/eimworld/eim22n/eim23/emil04052003.htm">Творчеството е подражание на ниво алгоритми</a> (бр.23, май 2003)
+<li><a href="http://www.oocities.org/eimworld/eim22n/eim22/matrica.htm">Матрицата в "Матрицата" е матрица в матрицата</a> (бр.22, април 2003)
+<li><a href="http://www.oocities.org/eimworld/eim20/emil.htm">Емил и Кибертрон</a> (бр.20, февруари 2003)
+<li><a href="http://www.oocities.org/eimworld/eim19/istinata.htm">Истината</a> - разказ/повест (бр.19, декември 2002) 
+<!-- <li> <a href="http://www.oocities.org/eimworld/eim19/istinata.htm">Истината</a> - разказ/повест (бр.19, декември 2002) -->
+<li><a href="http://www.oocities.org/eimworld/eim18/predopredelenost2.htm">Схващане за всеобщата предопределеност 2</a> - Вселената сметач и мн.др. Бр.18, октомври/2002<br>
+<li><a href="http://www.oocities.org/eimworld/eim18/predopredelenost2.htm">Следващото 
+еволюционно стъпало 2</a> (като част от "Схващане за всеобщата предопределеност 2", бр.18, октомври/2002)
+<li><a href="http://www.oocities.org/eimworld/eim17/sledvashtoto.htm">Следващото еволюционно стъпало</a> (бр.17)<br>
+<li><a href="http://www.oocities.org/eimworld/eim17/predopredelenost.htm">Схващане за всеобщата предопределеност</a> (бр.17, юли/2002)<br>
+<li><a href="http://www.oocities.org/eimworld/eimworld13/izint_13.html">Човекът и Мислещата машина </a>(Анализ на възможността да се създаде Мислеща Машина и някои недостатъци на човека и органичната материя пред нея)</a>, брой 13-ти на "Свещеният сметач", декември 2001 г.<br>&nbsp
+
 
 | Bulgarian        | Published | English           | Notes  |
 | ------------- |:-------------:| -----:|  -----:|
-| Къде отиваш свят? - създаването на мислещата машина - машината Бог <br>https://github.com/Twenkid/Theory-of-Universe-and-Mind/blob/main/1999.md     |1999 | "World, where you go?" - the creation of the thinking machine - machine God | Essay, Radio "Plovdiv", incentive prize|
+| Къде отиваш свят? - създаването на мислещата машина - машината Бог <br>https://github.com/Twenkid/Theory-of-Universe-and-Mind/blob/main/1999.md     |12.1999 | "World, where you go?" - the creation of the thinking machine - machine God | Essay, Radio "Plovdiv", incentive prize|
 |   |
+| Човекът и Мислещата машина (Анализ на възможността да се създаде Мислеща Машина и някои недостатъци на човека и органичната материя пред нея), брой 13-ти на "Свещеният сметач", декември 2001 г.  https://www.oocities.org/eimworld/eimworld13/izint_13.html <br>  http://eim.twenkid.com/old/eimworld/eimworld13/izint_13.html |12.2001 | "Man and Thinking Machine (Analysis of the possibility to create a Thinking Machine and some of man and organic matter compared to the machine), issue #13 of e-zine "The Sacred Computer", 12/2001 | |
 | Матрицата в "Матрицата" е матрица в матрицата      | 2003 | The Matrix in "The Matrix" is a matrix in the Matrix <br> https://medium.com/@todorarnaudov/the-matrix-in-the-matrix-is-a-matrix-in-the-matrix-895e86c5f002 | ... |
+
+
+
 
 
 
