@@ -109,7 +109,7 @@ https://www.oocities.org/todprog/ese/proekt.htm
 
 
 
-1. Levin, M., Farias C., Agency, Attractors, & Observer-Dependent Computation in Biology & Beyond, The Truth w/ Carlos Farias, 11.5.2023
+1. Levin, M., Farias C., Agency, Attractors, & Observer-Dependent Computation in Biology & Beyond, The Truth w/ Carlos Farias, 11.5.2023, https://www.youtube.com/watch?v=whZRH7IGAq0
 
 
 
