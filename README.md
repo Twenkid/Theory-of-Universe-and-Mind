@@ -41,8 +41,11 @@ The page of "Society Mind/Reason" ("Дружество Разум")
 * https://www.oocities.org/eimworld/razum/
 
 *Also*
-* https://www.oocities.org/todprog/ese/proekt.htm - AGI interdisciplinary institute strategy, the claim about the general algorithm etc., 2003
-* https://www.oocities.org/eimworld/eim22n/eim24/otsechka.htm - Truth, Line-drawing/tracing (see CogAlg/SuperCogAlg and future works), 2003
+
+* AGI interdisciplinary institute strategy, the claim about the general algorithm etc., 2003 : https://www.oocities.org/todprog/ese/proekt.htm
+* Truth, Match, Line-drawing/tracing (see CogAlg/SuperCogAlg and future works), 2003 : https://www.oocities.org/eimworld/eim22n/eim24/otsechka.htm
+* The absurdity and ill-definition of the copyright text in books; about compositional features, hierarchy, segmentation, ... 2002-2003* : an ironic article, actual now with the generative models. Bulgarian: "Всички права запазени!": http://eim.twenkid.com/old/eim22n/eim22/prava22.htm 
+English, Google Translated: "All rights reserved!" https://eim-twenkid-com.translate.goog/old/eim22n/eim22/prava22.htm?_x_tr_sch=http&_x_tr_sl=bg&_x_tr_tl=en&_x_tr_hl=bg&_x_tr_pto=wapp
 
 Materials for the world's first university course in AGI, 2010-2011
 * https://research.twenkid.com/agi/2010/
