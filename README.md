@@ -2,13 +2,19 @@
 
 Todor Arnaudov's "Theory of Universe and Mind", originally created in 2001-2004, a general "theory of everything", unifying Cybernetical Digital Physics Cosmology and Evolution with (Artificial) General Intelligence and Philosophy of Mind. A forefront of other analogical theories which are getting popular as late as late 2010s and now, 2023. Part of "The Bulgarian Prophecies" in AGI, Philosophy of AI, Digital physics etc. The theory was taught in the world's first interdisciplinary course in Artificial General Intelligence in 2010, 2011 at the University of Plovdiv, Bulgaria.
 
-Analogical, isomorphic, similar or closely related to these "prophecies", serving as delayed reviews and "confirmtation", are for example (detailed lists and discussions to be completed):
+See the references with numbers below for specific works. I will add also parallel texts, citations etc. Some matches are evident even from the first pages and the summaries of some ideas, compared to the summaries and the first points from works from ToUM, e.g. see Azarian's 2022 book and the beginning of "Concept about the Universal Predetermination Part 3", 2003, points 0. and 1. 
+
+As there was nobody to properly review these works back then, all these later coming matches are a sort of delayed reviews done indirectly by these top researchers, a proof of the reasoning, claims, conclusions, hypotheses, logic, way of thinking, models, predictions from my theory. 
+
+However as these works were not published in an academic environment (I was a teenagers, a schoolboy, at the end of that period: a freshman in "Computer Science" at The University of Plovdiv) and I am not in a proper hierarchy, I am looking for readers and modern reviewers to acknowledge these matches and recognize them, and in general to let the community which is interested in these topics to know about that, and also I am searching for partners for my related R&D.
+
+Analogical, isomorphic, similar or closely related to these "prophecies", serving as delayed reviews and "confirmation", are for example (detailed lists and discussions to be completed):
 
 * Jeff Hawkins' "On intelligence"/Memory-prediction framework
 * Karl Friston's "Free Energy Principle"/"Active Inference"
 * Joscha Bach's discussions on Universe and Mind in podcasts up to now, 2022-2023 - in many aspects, except a few details about circular word plays about  "existence" and "real"-ness, are almost identical to the ones and the reasoning expressed bellow, 20 years earlier
 * Michael Levin's "Scale-Free Cognition" framework,  “Technological Approach to Mind Everywhere (TAME): an experimentally-
-grounded framework for understanding diverse bodies and minds" (2022), Cognitive lightcone" ...
+grounded framework for understanding diverse bodies and minds" (2022), Cognitive lightcone" ... See also #1. 
 * Reinforcement learning directions and frameworks; constraints such as bounded rationality in multiagent systems, in the "prophecies" mapped and proven by their match in the interdisciplinary context such as society, states etc.
 * Directions for "the future"/"next decade" etc. of AI/Deep Learning (as of 2022-2023) such as compositionality, multiscale, multiresolution, multiagent bounded rationality etc. - suggested in the 2001-2004 prophecies right from the start
 * Causality instead of probability-only modeling
@@ -28,6 +34,9 @@ system. Open Syst Inf Dyn 9 (2002) 371-380. (cited in Levin's " “Technological
 
 А "pre-prophecy" from 1999, the essay: "Where the world goes?" (to the creation of the Thinking Machine - The Machine God)
 * https://github.com/Twenkid/Theory-of-Universe-and-Mind/blob/main/1999.md
+
+The page of "Society Mind/Reason" ("Дружество Разум")
+
 * http://eim.twenkid.com/old/razum
 * https://www.oocities.org/eimworld/razum/
 
@@ -96,7 +105,12 @@ https://www.oocities.org/todprog/ese/proekt.htm
 | Къде отиваш свят? - създаването на мислещата машина - машината Бог <br>https://github.com/Twenkid/Theory-of-Universe-and-Mind/blob/main/1999.md     |12.1999 | "World, where you go?" - the creation of the thinking machine - machine God | Essay, Radio "Plovdiv", incentive prize|
 |   |
 | Човекът и Мислещата машина (Анализ на възможността да се създаде Мислеща Машина и някои недостатъци на човека и органичната материя пред нея), брой 13-ти на "Свещеният сметач", декември 2001 г.  https://www.oocities.org/eimworld/eimworld13/izint_13.html <br>  http://eim.twenkid.com/old/eimworld/eimworld13/izint_13.html |12.2001 | "Man and Thinking Machine (Analysis of the possibility to create a Thinking Machine and some of man and organic matter compared to the machine), issue #13 of e-zine "The Sacred Computer", 12/2001 | |
-| Матрицата в "Матрицата" е матрица в матрицата      | 2003 | The Matrix in "The Matrix" is a matrix in the Matrix <br> https://medium.com/@todorarnaudov/the-matrix-in-the-matrix-is-a-matrix-in-the-matrix-895e86c5f002 | ... |
+| Матрицата в "Матрицата" е матрица в матрицата      | 2003 | The Matrix in "The Matrix" is a matrix in the Matrix <br> https://medium.com/@todorarnaudov/the-matrix-in-the-matrix-is-a-matrix-in-the-matrix-895e86c5f002 <br> Compare with Levin's about "simulation" in #1 | ... |
+
+
+
+1. Levin, M., Farias C., Agency, Attractors, & Observer-Dependent Computation in Biology & Beyond, The Truth w/ Carlos Farias, 11.5.2023
+
 
 
 
