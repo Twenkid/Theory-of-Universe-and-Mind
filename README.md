@@ -29,8 +29,36 @@ grounded framework for understanding diverse bodies and minds" (2022), Cognitive
 * G. Georgiev, and I. Georgiev, The least action and the metric of an organized
 system. Open Syst Inf Dyn 9 (2002) 371-380. (cited in Levin's " “Technological Approach to Mind Everywhere (TAME): ...") - note that the authors are also Bulgarian
 
-*  ...
-* More detailed and exhaustive comparisons and display of the matches to come.
+**Other specific discussions which address ideas from The Theory of Universe and Mind**
+* Conversation between Mark Solms, Chris Fields, and Mike Levin 3, 4.5.2023:
+https://www.youtube.com/watch?v=klK_L73wLKk
+* See ~ 41 min, where Mark Solms ("who is known for his discovery of the brain mechanisms of dreaming ..." from https://en.wikipedia.org/wiki/Mark_Solms) after discussing fear and pain, argues that the Qualia is the measurement of the free energy (Friston), i.e. the difference to the expected input. https://youtu.be/klK_L73wLKk?t=2518 In his works Levin links the concept of "stress" at all levels to the difference to the expected/wanted/desired. At 44:50 Levin says "...100% correct". Compare with ToUM, where "pain/suffering" is explained as difference to the expected, it is valid even in "mundane" cases such as why people are uncomfortable when e.g. somebody didn't put off his hat where he is supposed to do it, such as in a church, or when somebody doesn't obey the rules they do obey, even if the rules are obviously "non-functional" and "abstractly" nobody should be hurt *physically* or suffer if they are broken, because they are just a convention: however people do suffer when the rules, their expectations, the justice etc. are broken, either regarding abstract conventional social relations, interpersonal relations or undesirable surprises and let downs (unmet expectations, the sensory input, or the perceived sensory input mismatches the expected/wanted/target, or wrong predictions). The "pain" seemed to come from the not-obeying the rule, not from the essence/material of the rules themselves. See e.g. "Concept about the Universal Predestination/Predetermination II, or Letters between the 18-years old Todor Arnaudov and the [43-years old] philosopher Angel Grancharov" from ToUM. Compare it also with the summary in the slides from the world's first university course in AGI, Plovdiv 2010,2011, which addresses two kinds of reewards: Cognitive and Physical. 
+ "CCU" below stands for Control-Causality Unit, also Causality-Control Unit (the same meaning, or maybe a nuance could be added).
+ https://research.twenkid.com/agi/2010/en/Todor_Arnaudov_Theory_of_Hierarchical_Universal_Simulators_of_universes_Eng_MTR_3.pdf
+
+![image](https://github.com/Twenkid/Theory-of-Universe-and-Mind/assets/23367640/56b471b5-1a82-4a0d-87ce-418cf880e84c)
+...
+![image](https://github.com/Twenkid/Theory-of-Universe-and-Mind/assets/23367640/fe641868-eb01-40a1-8d02-617e4897b32f)
+![image](https://github.com/Twenkid/Theory-of-Universe-and-Mind/assets/23367640/fca98398-1342-476d-b6db-a6aa454e6677)
+![image](https://github.com/Twenkid/Theory-of-Universe-and-Mind/assets/23367640/22527520-86e9-4f9f-8afa-ee487718a78a)
+
+See also this simple generalisations about what embodiment is/could be from an AGI design POV: 
+**"Embodiment is just coordinate spaces, interactivity and modalities - not a mystery", Arnaudov 2011**: https://artificial-mind.blogspot.com/2011/12/embodiment-is-just-coordinate-spaces.html
+The bullet points there are:
+
+- Known fixed basic continuous coordinate spaces  ...
+- Interactivity ...
+- Modalities ...
+- Inter-modalities ...
+- Value-free initial inputs  ...
+- Basic reward-system ...
+
+That is a claim that this view implies that this type of embodiment could apply for all kinds of systems, not just "brains" with particular properties, as long as they navigate these spaces. "Continuous" here rather means "connected" in my digital-universe representations. The basic reward system are the "physical"/sensual rewards/goals, i.e. preservation and existence in the lowest level representation, as not securing this would lead to deletion of the higher levels as well. Regarding the deletion of the higher levels when erros (mismatches from the expected/controlled future) happens, see the short work "Abstract Theory of the Exception of the rules in the Computers", where Universe and Mind are part of the "computers", different levels/kinds of virtual causality-control units, "subuniverses", universal simulators of virtual universes, "systems". In Friston's terms maybe "Markov blankets".
+
+
+## More detailed and exhaustive comparisons and display of the matches to come. ...
+
+...
 
 ## Original publications in Bulgarian
 
