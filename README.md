@@ -94,7 +94,7 @@ force them to surrender!“
 (...)
 ```
 
-See the next videio from Michael Levin's Academic Content: "Conversation #1 between Chris Fields, Richard Watson, and Mike Levin, Michael Levin's Academic Content 1,96 хил. абонати", 11.5.2023, 676 показвания at 15.5.2023  _Working meeting #1 with Chris Fields and Richard Watson.  We discuss error-correcting codes (a little; more next time), reductionism, multi-scale controls, and more_
+See the next video from Michael Levin's Academic Content: "Conversation #1 between Chris Fields, Richard Watson, and Mike Levin, Michael Levin's Academic Content 1,96 хил. абонати", 11.5.2023, 676 показвания at 15.5.2023  _Working meeting #1 with Chris Fields and Richard Watson.  We discuss error-correcting codes (a little; more next time), reductionism, multi-scale controls, and more_
 https://www.youtube.com/watch?v=_413APB9PIw 
 
 Where **Richard Watson** begins with that _he is trying to, or he'd like to develop a theory that links together cognition, evolution, adaptation, development and computation ... "just those", and in particular ... in a way that explains agential behavior and how mechanistic processes at a given level of organization can be more or less autonomous at that scale, but how that interacts with the scale above and below ... He's been excited recently with resonance as a form of error correction and as a mechanism that links together all of those things that he is interested in and its connection to error-correctinng codes is one of the topics that ... could be a good place to start ..."_  [Richard Watson: https://en.wikipedia.org/wiki/Richard_Watson_(author) ? ]
@@ -108,6 +108,14 @@ Map this to the view to Universe as a Computer/Information/Data, Information the
 Then M.Levin at 6:50 min: _"Chris and I have been developing lately is perspectives on all this kind of stuff ... centralizing the role of the observer ... everything is from the perspective of some Observer so ... all that Chris said on that topic reference frames and then The Observers and everything would be super important..."_
 
 ToUM addresses this topic of the Observer as an "Evaluator" (Оценител) - in order to emphasize that it is not just observing, but the "Observer" (The Evaluator) evaluates, decides the value, interprets etc. and the interpretation is highly dependent on the Evaluator (analogical to "subjective" in more humane/ordinary life sense). The more developed Evaluator (a Mind or "Consciousness", Causality-control unit, a system) can interpet/evaluate what it observes more freely and is more indirect, it is less directly "forced" to convert the sensory data/feedback into immediate "executive" code, also the more developed/advanced/powerful Evaluator/CCU etc. is better in predicting and causing the future in higher resolution and precision and range etc. See for example the beginning of "Universe and Mind 4", 2004.
+
+See Mark Solms and Chris Fields intro from a video from M.Levin's channel from 27.01.2023: https://www.youtube.com/watch?v=4Z8UPddh0e4 @ 4 min
+
+**Mark:** _I'm a neuroscientist, trained in the early 80s - frustrated by how little mind there was those days ... the most interesting thing about the brain, namely its mental functions seemed to be treated in a very desiccated way ... so --> psychoanalysis ... took seriously the subjective experience of the mind ... then ... trying to reconscile the two, to build bridges ... to bridge the vast Chasm between those two disciplines ...  in recent times ... I've been always interested in brain mechanisms of consciousness ... in recent times I became convinced of the view that we shouldn't be using a higher cognitive forms of Consciousness as our model example we should be looking to much more rudimentary processes ... from a neuroscientific point of view we should be starting there um with these fundamentally homeostatic mechanisms that regulate the effectively_ valenced raw feelings ... so I became interested in the free energy principle and active inference framework more
+
+**Chris:** _originally trained as a physicist, .. then a degree in philosophy and then went to work in the Human Genome Project, so I'm a sort of elapsed physicist, elapsed philosopher and an elapsed molecular biologist all together_
+
+[To do: Add presentations of Michael Levin from podcasts.] 
 
 ## More detailed and exhaustive comparisons and display of the matches to come. ...
 
