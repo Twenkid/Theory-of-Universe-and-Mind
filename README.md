@@ -53,16 +53,61 @@ The bullet points there are:
 - Value-free initial inputs  ...
 - Basic reward-system ...
 
-That is a claim that this view implies that this type of embodiment could apply for all kinds of systems, not just "brains" with particular properties, as long as they navigate these spaces. "Continuous" here rather means "connected" in my digital-universe representations. The basic reward system are the "physical"/sensual rewards/goals, i.e. preservation and existence in the lowest level representation, as not securing this would lead to deletion of the higher levels as well. Regarding the ceasing of existence of the higher levels of representations when erros - disallowed states, gross mispredictions, mismatches from the expected/controlled future  happens, - see the short work "Abstract Theory of the Exception of the rules in Computers. A theory about the control units and the control", 2004, where with control I also mean "causation", the simplest form of causation for a computer is to store a particular desired "value", state, memory content, to another "subuniverse"/causality-control unit as it has expected/predicted, and in order to be "real"/true causation-control, it has to happen with the resolution that is the highest for the target virtual universe etc. Both computers and the virtual worlds and levels of causation-control and representation and and Mind are part of the "Universe Computer", different levels/kinds of virtual causality-control units, "subuniverses", universal simulators of virtual universes, "systems". In Friston's terms maybe "Markov blankets".
+That is a claim that this view implies that this type of embodiment could apply for all kinds of systems, not just "brains" with particular properties, as long as they navigate these spaces. "Continuous" here rather means "connected" in my digital-universe representations. The basic reward system are the "physical"/sensual rewards/goals, i.e. preservation and existence in the lowest level representation, as not securing this would lead to deletion of the higher levels as well. 
+
+Regarding the ceasing of existence of the higher levels of representations when erros - disallowed states, gross mispredictions, mismatches from the expected/controlled future  happens, - see the short work "Abstract Theory of the Exception of the rules in Computers. A theory about the control units and the control", 2004, where with control I also mean "causation", the simplest form of causation for a computer is to store a particular desired "value", state, memory content, to another "subuniverse"/causality-control unit as it has expected/predicted, and in order to be "real"/true causation-control, it has to happen with the resolution that is the highest for the target virtual universe etc. Both computers and the virtual worlds and levels of causation-control and representation and and Mind are part of the "Universe Computer", different levels/kinds of virtual causality-control units, "subuniverses", universal simulators of virtual universes, "systems". In Friston's terms maybe "Markov blankets".
 https://web.archive.org/web/20041020165359/http://bgit.net/?id=65835 Абстрактна теория за "изключенията от правилата" в изчислителните машини. Теория за управляващите устройства и управлението.
+
+See also the short presentation, given at an event in 2009 at Sofia Technical University, originally titled: "The Time Machine Exists: The Mind" (referring to general intelligence as a capacity for predictioon and causation and a universal simulation of virtual universes, predicting the future by interactively creating models of the past etc.) https://research.twenkid.com/agi/2010/en/General_Intelligence_Principles_Caffe_Sci_2009_MTR.pdf
+
+https://artificial-mind.blogspot.com/2009/09/event-with-me-in-sofia.html 
+
+http://green.democrit.com/bg/articles.php?cell=117 
+
+![image](https://github.com/Twenkid/Theory-of-Universe-and-Mind/assets/23367640/334e5a03-67ad-472c-b60c-7e86bad2a7bc)
+![image](https://github.com/Twenkid/Theory-of-Universe-and-Mind/assets/23367640/fdabe6c5-8a07-46c3-893d-a8ae5bc704d9)
+![image](https://github.com/Twenkid/Theory-of-Universe-and-Mind/assets/23367640/27945cd3-3acc-4faf-abac-6b73bbae78eb) ![image](https://github.com/Twenkid/Theory-of-Universe-and-Mind/assets/23367640/8e257c1c-4af7-4ab3-aeec-bcd15f2e53b2) 
+```Causality/Control
+
+Private , tank crew , pilot
+Specific physical actions of war
+- To Shoot
+- Throw bombs
+- To attack or to take cover?
+- Is there a bullet in the barrel? Should
+I reload?
+- Where exactly to take cover?
+- Where exactly is the clip? How
+exactly the clip is put on the gun?
+- To aim?
+ - Recognize the enemy.
+ - If many – choose a target.
+ - Predict target's trajectory.
+- Should I listen to my superior?
+
+Marshal
+- Gives commands on a map (abstract)
+- Commands an army (abstract)
+- Gives abstract commands/orders
+„Surround the enemy's army and
+force them to surrender!“
+(...)
+```
+
 See the next videio from Michael Levin's Academic Content: "Conversation #1 between Chris Fields, Richard Watson, and Mike Levin, Michael Levin's Academic Content 1,96 хил. абонати", 11.5.2023, 676 показвания at 15.5.2023  _Working meeting #1 with Chris Fields and Richard Watson.  We discuss error-correcting codes (a little; more next time), reductionism, multi-scale controls, and more_
 https://www.youtube.com/watch?v=_413APB9PIw 
 
-Where **Richard Watson** begins with that _he is trying to, or he'd like to develop a theory that links together cognition, evolution, adaptation, development and computation ... "just those", and in particular ... in a way that explains agential behavior and how mechanistic processes at a given level of organization can be more or less autonomous at that scale, but how that interacts with the scale above and below ... He's been excited recently with resonance as a form of error correction and as a mechanism that links together all of those things that he is interested in and its connection to error-correctinng codes is one of the topics that ... could be a good place to start ..."_  
+Where **Richard Watson** begins with that _he is trying to, or he'd like to develop a theory that links together cognition, evolution, adaptation, development and computation ... "just those", and in particular ... in a way that explains agential behavior and how mechanistic processes at a given level of organization can be more or less autonomous at that scale, but how that interacts with the scale above and below ... He's been excited recently with resonance as a form of error correction and as a mechanism that links together all of those things that he is interested in and its connection to error-correctinng codes is one of the topics that ... could be a good place to start ..."_  [Richard Watson: https://en.wikipedia.org/wiki/Richard_Watson_(author) ? ]
 
 **Michael Levin**: _Chris, say what you've been and what we've been working on ...?_
 
-**Chris Fields** answers: _"we've been interested in this intersection of physics and cognitive science and biology and how to develop theoretical frameworks that are based very firmly in physics and connect in a very natural way to computer science and that ... provide a nice formulation of what's going on in biology, but complementary to that we're interested in how to import biological and cognitive thinking into physics in a kind of whole scale ... physics is fundamentally a theory of communication between agents who have some computational structure and who have to exist within an environment that exerts selective pressures of one kind or other... of course the environmnet in this case is an agent also, that has its own agenda ... and the free energy principle provides a nice way of formulating all of this, especially when t's translated into Quantum information language..."_ 
+**Chris Fields** answers: _"we've been interested in this intersection of physics and cognitive science and biology and how to develop theoretical frameworks that are based very firmly in physics and connect in a very natural way to computer science and that ... provide a nice formulation of what's going on in biology, but complementary to that we're interested in how to import biological and cognitive thinking into physics in a kind of whole scale ... physics is fundamentally **a theory of communication between agents who have some computational structure** and who have to exist within an environment that exerts selective pressures of one kind or other... of course the environmnet in this case is an agent also, that has its own agenda ... and the free energy principle provides a nice way of formulating all of this, especially when t's translated into Quantum information language..."_ 
+
+Map this to the view to Universe as a Computer/Information/Data, Information theory. A funny coincidence in the "prophecy" mode/interpretation is that my High School specialty was "Communication Technology" (Съобщителна техника).
+
+Then M.Levin at 6:50 min: _"Chris and I have been developing lately is perspectives on all this kind of stuff ... centralizing the role of the observer ... everything is from the perspective of some Observer so ... all that Chris said on that topic reference frames and then The Observers and everything would be super important..."_
+
+ToUM addresses this topic of the Observer as an "Evaluator" (Оценител) - in order to emphasize that it is not just observing, but the "Observer" (The Evaluator) evaluates, decides the value, interprets etc. and the interpretation is highly dependent on the Evaluator (analogical to "subjective" in more humane/ordinary life sense). The more developed Evaluator (a Mind or "Consciousness", Causality-control unit, a system) can interpet/evaluate what it observes more freely and is more indirect, it is less directly "forced" to convert the sensory data/feedback into immediate "executive" code, also the more developed/advanced/powerful Evaluator/CCU etc. is better in predicting and causing the future in higher resolution and precision and range etc. See for example the beginning of "Universe and Mind 4", 2004.
 
 ## More detailed and exhaustive comparisons and display of the matches to come. ...
 
