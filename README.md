@@ -1,14 +1,16 @@
 # Theory of Universe and Mind or "The Bulgarian Prophecies" in Artificial General Intelligence (AGI), Digital Universe/The Universe Computer, Philosophy of AI, AI etc. 2001-2004 etc.
 
-Todor Arnaudov's "Theory of Universe and Mind", originally created in 2001-2004, a general "theory of everything", unifying Cybernetical Digital Physics Cosmology and Evolution with (Artificial) General Intelligence and Philosophy of Mind. A forefront of other analogical theories which are getting popular as late as late 2010s and now, 2023. Part of "The Bulgarian Prophecies" in AGI, Philosophy of AI, Digital physics etc. The theory was taught in the world's first interdisciplinary course in Artificial General Intelligence in 2010, 2011 at the University of Plovdiv, Bulgaria.
+Todor Arnaudov's "Theory of Universe and Mind", originally created in 2001-2004, a general "theory of everything", unifying Cybernetical Digital Physics Cosmology and Evolution of the Universe with (Artificial) General Intelligence and Philosophy of Mind and mapping to human behavior, motivation, reinforcement learning, society (...). A forefront of other analogical, related and similar theories, now getting more elaborated and scientific, supported with technical papers and world reknowned researchers are getting popular as late as late 2010s (Karl Friston's one started to get popular) and are still cutting edge and avantgarde in 2023. Due to its predictions and the huge number of matches of future works to the claims and the reasoning in these works even more than 20 years later, the "Theory of Universe and Mind" (TOUM for short) is a part of the so called "Bulgarian Prophecies" in AGI, Philosophy of AI, Digital physics etc., together with a strategical essay/proposal from 2003 for the development of AGI via the creation of a super interdisciplinary R&D institute. The "prophecies" are also Bulgarian because they were originally written in Bulgarian and the theory was taught during the world's first interdisciplinary course in Artificial General Intelligence in 2010, 2011 at the University of Plovdiv, Bulgaria with working language Bulgarian (note the MIT's AGI course led by Lex Fridman was in 2018).
 
-See the references with numbers below for specific works. I will add also parallel texts, citations etc. Some matches are evident even from the first pages and the summaries of some ideas, compared to the summaries and the first points from works from ToUM, e.g. see Azarian's 2022 book and the beginning of "Concept about the Universal Predetermination Part 3", 2003, points 0. and 1. 
+A "bibleically" sized documentary book, demonstrating, justifying, proving the "prophecies" is in preparation: *"The prophets of the Thinking Machines: Artificial General Intelligence and Transhumanism: History Theory and Pioneers"*. It is currently in Bulgarian, about 1350 pages ready, a lot of documentary/comparison material to include which may extend it to 14xx or 1500+ depending on the selection.
 
-As there was nobody to properly review these works back then, all these later coming matches are a sort of delayed reviews done indirectly by these top researchers, a proof of the reasoning, claims, conclusions, hypotheses, logic, way of thinking, models, predictions from my theory. 
+* Please see the works below and the comparisons and matches to later works by other authors. Parallel texts, citations etc. Some matches are evident even from the first pages and the summaries of some ideas, compared to the summaries and the first points from works from ToUM, e.g. see Azarian's 2022 book and the beginning of "Concept about the Universal Predetermination Part 3", 2003, points 0. and 1. 
 
-However as these works were not published in an academic environment (I was a teenagers, a schoolboy, at the end of that period: a freshman in "Computer Science" at The University of Plovdiv) and I am not in a proper hierarchy, I am looking for readers and modern reviewers to acknowledge these matches and recognize them, and in general to let the community which is interested in these topics to know about that, and also I am searching for partners for my related R&D.
+* As there was nobody to properly review these works back then, all these later coming matches are a sort of delayed reviews done indirectly by these top researchers, a proof of the reasoning, claims, conclusions, hypotheses, logic, way of thinking, models, predictions from my theory. 
 
-Analogical, isomorphic, similar or closely related to these "prophecies", serving as delayed reviews and "confirmation", are for example (detailed lists and discussions to be completed):
+However as these works were not published in an academic environment (I was a teenagers: a school boy, at the end of that period: a freshman in "Computer Science" at The University of Plovdiv) and I am not in a proper hierarchy, I am looking for readers, scholars, prospective partners for future research together and modern reviewers to acknowledge these matches and recognize them and my contribution, and in general to let the community which is interested in these topics know about that. I am also searching for partners for my related R&D in AGI.
+
+## Analogical, isomorphic, similar or closely related to these "prophecies", serving as delayed reviews and "confirmation", are for example (detailed lists and discussions to be completed):
 
 * Jeff Hawkins' "On intelligence"/Memory-prediction framework
 * Karl Friston's "Free Energy Principle"/"Active Inference"
@@ -136,7 +138,7 @@ The #210 article-note discusses also the dichotomy of apodictic and discoursive 
 
 ...
 
-## Original publications in Bulgarian
+## Original publications
 
 А "pre-prophecy" from 1999, the essay: "Where the world goes?" (to the creation of the Thinking Machine - The Machine God)
 * https://github.com/Twenkid/Theory-of-Universe-and-Mind/blob/main/1999.md
@@ -184,6 +186,8 @@ The first AGI-related article in "The Sacred Computer" e-zine defining AGI and "
 https://www.oocities.org/eimworld/eimworld6/eimmain6.html
 
 An AGI strategy, about May-June 2003: (Bulgarian)
+**The visionary strategical essay/proposal for creation of an interdisciplinary research institute in AGI, published in 2003, with many ideas followed by DeepMind and programs since late 2010s and on** (I've been implementing the interdisciplinary approach myself for my whole life)
+https://translate.google.com/translate?sl=auto&tl=en&u=https://artificial-mind.blogspot.com/2020/07/interdisciplinary-research-institute.html
 https://www.oocities.org/todprog/ese/proekt.htm
 
 *In oocities.org - geocities archive or archive.org: change "www.oocities.org" to "www.geocities.com" and check in Archive.org
@@ -212,9 +216,10 @@ https://www.oocities.org/todprog/ese/proekt.htm
 <li><a href="http://www.oocities.org/eimworld/eim17/predopredelenost.htm">Схващане за всеобщата предопределеност</a> (бр.17, юли/2002)<br>
 <li><a href="http://www.oocities.org/eimworld/eimworld13/izint_13.html">Човекът и Мислещата машина </a>(Анализ на възможността да се създаде Мислеща Машина и някои недостатъци на човека и органичната материя пред нея)</a>, брой 13-ти на "Свещеният сметач", декември 2001 г.<br>&nbsp
 
-** Later works (incomplete list) **
 
-http://artificial-mind.blogspot.com
+** Other later works (incomplete list) **
+
+The blog "Artificial Mind", also "Todor Arnaudov's Research[es]": http://artificial-mind.blogspot.com
 
 ## The Notes Part to the interdisciplinary work: "What a man needs? If you play by the rules you'll lose like the fools!", T.Arnaudov, 2014 ("Какво му трябва на човек? Играеш ли по правилата ще загубиш играта!"). Many articles and references and mappings between claims: see 200, 210, 267, 269; 103 etc. 
 https://razumir.twenkid.com/kakvomu_notes.html
@@ -231,11 +236,19 @@ This type of thinker often has a broad knowledge of the private sciences, mathem
 
 etc.
 
+(...)
+
 ...
 
-**Other cognitive science related etc.** 
+**Other cognitive science, philosophy of mind, AGI, hypothesis about the brain and evolution etc. ** 
 
 * Abstract Addressing and Discontinuous Addressing Impede Processing in Generalizing Hierarchies, 29.11.2011: http://artificial-mind.blogspot.com/2011/11/abstract-addressing-and-discontinuous.html
+* Faults in Turing Test and Lovelace Test. Introduction of Educational Test.
+http://artificial-mind.blogspot.com/2007/11/faults-in-turing-test-and-lovelace-test.html
+* Supports for the Hypothesis of Higher Brains Re-iterating the Functions of the Lower Ones - implies that the function of the higher ones could be induced by understanding the functions of the lower ones and extending them
+http://artificial-mind.blogspot.com/2013/08/supports-of-hypothesis-of-higher-brains.html
+* Learned or Innate? Nature or Nurture? Speculations of how a mind can grasp on its own: animate/inanimate objects, face recognition, language...
+http://artificial-mind.blogspot.com/2010/04/learned-or-innate-nature-or-nurture.html
 
 
 | Bulgarian        | Published | English           | Notes  |
