@@ -175,7 +175,10 @@ http://artificial-mind.blogspot.com/2010/01/semantic-analysis-of-sentence.html
 * http://artificial-mind.blogspot.com/2010/02/intelligence-search-for-biggest.html
 
 ...
+
 ## Direct Links to Works | Преки връзки към произведения
+
+**The "classical" works 2001-2004**
 
 The first AGI-related article in "The Sacred Computer" e-zine defining AGI and "Seed AI" (Зародиш на разум): April 2001. (Bulgarian)
 https://www.oocities.org/eimworld/eimworld6/eimmain6.html
@@ -208,6 +211,32 @@ https://www.oocities.org/todprog/ese/proekt.htm
 <li><a href="http://www.oocities.org/eimworld/eim17/sledvashtoto.htm">Следващото еволюционно стъпало</a> (бр.17)<br>
 <li><a href="http://www.oocities.org/eimworld/eim17/predopredelenost.htm">Схващане за всеобщата предопределеност</a> (бр.17, юли/2002)<br>
 <li><a href="http://www.oocities.org/eimworld/eimworld13/izint_13.html">Човекът и Мислещата машина </a>(Анализ на възможността да се създаде Мислеща Машина и някои недостатъци на човека и органичната материя пред нея)</a>, брой 13-ти на "Свещеният сметач", декември 2001 г.<br>&nbsp
+
+** Later works (incomplete list) **
+
+http://artificial-mind.blogspot.com
+
+## The Notes Part to the interdisciplinary work: "What a man needs? If you play by the rules you'll lose like the fools!", T.Arnaudov, 2014 ("Какво му трябва на човек? Играеш ли по правилата ще загубиш играта!"). Many articles and references and mappings between claims: see 200, 210, 267, 269; 103 etc. 
+https://razumir.twenkid.com/kakvomu_notes.html
+* 200 **Hypothesis about the deeper consciousness (Хипотеза за по-дълбокото съзнание)** https://razumir.twenkid.com/kakvomu_notes.html#200
+* 210 **Creativity is a systematic process, see also 84: Creativity is an immitation at algorithmic level", Творчеството е систематичен процес, виж (84)" Творчеството е подражание на ниво алгоритми" 
+* 267 **The truth according to Engels**
+
+Compare the intro to note 269 with the intros of the colleagues which were quoted above and mine: [Translated with Google Translated and a few corrections/word choices/multiple words]
+
+* 269 **In general, those who do not understand - unable and unwilling to understand magnify the "mysterious" and emotions; and those who can and want to understand - reason, the management of things. The latter also have emotions - like all animals - but they see them as something obvious and elementary, because even animals have feelings - they are at the base of the pyramid. On the other hand - the spectrum of the mind has a huge scope and not everyone has reason; he is the blade of progress - the top of the pyramid.** The first understand - know - only that they do not understand a given object of study, more specifically why this or that happens, with a sufficiently high resolution and in terms related to their volitional behavior (not the will in the Holy sense) - whether what is happening it's up to them, whether it's controllable, etc. (104) The latter understand the object of study as well as understand that they understand it and systematically increase the resolution, clarity and scope of understanding as prediction/anticipation. (104)
+These guidelines are related to the perception of the concept of "free will". (103)(104)
+The second type lean towards Hegel's definition, expanded by Engels in "Anti-Dühring" (267.1) and quoted by Lenin in "Materialism and Empiriocriticism" (268), and thought also by philosophers and mathematicians such as Laplace, in also by Schopenhauer (235)(236) - in the latter as the increasing distinctness of the higher forms of objectification of the will. In T.Arnaudov's (103)(104) the evolution of the universe is a drive to create imaginary universes of a higher level, which are increasingly better at foreseeing the future - knowing the laws of the sub-universe in which they exist, as well as their own - of their internal working/mechanisms/processes.
+This type of thinker often has a broad knowledge of the private sciences, mathematics, combines the humanities and exact sciences and has a bias towards Systems Theory, Cybernetics. (...)  
+
+etc.
+
+...
+
+**Other cognitive science related etc.** 
+
+* Abstract Addressing and Discontinuous Addressing Impede Processing in Generalizing Hierarchies, 29.11.2011: http://artificial-mind.blogspot.com/2011/11/abstract-addressing-and-discontinuous.html
+
 
 | Bulgarian        | Published | English           | Notes  |
 | ------------- |:-------------:| -----:|  -----:|
