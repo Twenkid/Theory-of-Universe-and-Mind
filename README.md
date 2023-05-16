@@ -31,6 +31,129 @@ grounded framework for understanding diverse bodies and minds" (2022), Cognitive
 * G. Georgiev, and I. Georgiev, The least action and the metric of an organized
 system. Open Syst Inf Dyn 9 (2002) 371-380. (cited in Levin's " “Technological Approach to Mind Everywhere (TAME): ...") - note that the authors are also Bulgarian
 
+## Original publications
+
+А "pre-prophecy" from 1999, the essay: "Where the world goes?" (to the creation of the Thinking Machine - The Machine God)
+* https://github.com/Twenkid/Theory-of-Universe-and-Mind/blob/main/1999.md
+
+The page of "Society Mind/Reason" ("Дружество Разум")
+
+* http://eim.twenkid.com/old/razum
+* https://www.oocities.org/eimworld/razum/
+
+*Also*
+
+* AGI interdisciplinary institute strategy, the claim about the general algorithm etc., 2003 : https://www.oocities.org/todprog/ese/proekt.htm
+* Truth, Match, Line-drawing/tracing (see CogAlg/SuperCogAlg and future works), 2003 : https://www.oocities.org/eimworld/eim22n/eim24/otsechka.htm
+* The absurdity and ill-definition of the copyright text in books; about compositional features, hierarchy, segmentation, ... 2002-2003* : an ironic article, actual now with the generative models. Bulgarian: "Всички права запазени!": http://eim.twenkid.com/old/eim22n/eim22/prava22.htm 
+English, Google Translated: "All rights reserved!" https://eim-twenkid-com.translate.goog/old/eim22n/eim22/prava22.htm?_x_tr_sch=http&_x_tr_sl=bg&_x_tr_tl=en&_x_tr_hl=bg&_x_tr_pto=wapp
+
+Materials for the world's first university course in AGI, 2010-2011
+* https://research.twenkid.com/agi/2010/
+* https://research.twenkid.com/agi/2010/en
+* https://research.twenkid.com/agi/2010/en/Todor_Arnaudov_Theory_of_Hierarchical_Universal_Simulators_of_universes_Eng_MTR_3.pdf
+* https://research.twenkid.com/agi/2010/en/Todor_Arnaudov_Theory_of_Universe_and_Mind_3.pdf
+* https://research.twenkid.com/agi/2010/en/Todor_Arnaudov_Theory_of_Universe_and_Mind_4.pdf
+* https://research.twenkid.com/agi/2010/en/Whats_wrong_with_NLP_links.htm
+* https://research.twenkid.com/agi/2010/en/General_Intelligence_Principles_Caffe_Sci_2009_MTR.pdf
+
+A translation of one 2004 work:
+http://artificial-mind.blogspot.com/2010/01/semantic-analysis-of-sentence.html
+
+* Part 1 (и български):(This Post) Semantic analysis of a sentence. Reflections about the meaning of the meaning and the Artificial Intelligence 
+* Part 2 (и български): Causes and reasons for human actions. Searching for causes. Whether higher or lower levels control. Control Units. Reinforcement learning. 
+* Part 3 (и български): Motivation is dependent on local and specific stimuli, not general ones. Pleasure and displeasure as goal-state indicators. Reinforcement learning.
+* Part 4 : Intelligence: search for the biggest cumulative reward for a given period ahead, based on given model of the rewards. Reinforcement learning.
+* http://artificial-mind.blogspot.com/2010/01/semantic-analysis-of-sentence.html
+* http://artificial-mind.blogspot.com/2010/02/causes-and-reasons-for-any-particular.html
+* http://artificial-mind.blogspot.com/2010/02/motivation-is-dependent-on-local-and.html
+* http://artificial-mind.blogspot.com/2010/02/intelligence-search-for-biggest.html
+
+...
+
+## Direct Links to Works | Преки връзки към произведения
+
+**The "classical" works 2001-2004**
+
+The first AGI-related article in "The Sacred Computer" e-zine defining AGI and "Seed AI" (Зародиш на разум): April 2001. (Bulgarian)
+https://www.oocities.org/eimworld/eimworld6/eimmain6.html
+
+An AGI strategy, about May-June 2003: (Bulgarian)
+**The visionary strategical essay/proposal for creation of an interdisciplinary research institute in AGI, published in 2003, with many ideas followed by DeepMind and programs since late 2010s and on** (I've been implementing the interdisciplinary approach myself for my whole life)
+https://translate.google.com/translate?sl=auto&tl=en&u=https://artificial-mind.blogspot.com/2020/07/interdisciplinary-research-institute.html
+https://www.oocities.org/todprog/ese/proekt.htm
+
+*In oocities.org - geocities archive or archive.org: change "www.oocities.org" to "www.geocities.com" and check in Archive.org
+<li><a href="http://www.oocities.org/eimworld/4/30/30.htm" target="new">Разговори за Изкуствен разум между Тош и тайнствения тип Астер Трафиков "Ловеца", известен още като... Галина "ТХ" Славина</a> (бр.30, септ. 2004)  (in archive.org)
+<li><a href="http://www.oocities.org/eimworld/4/29/pred4.htm" target="new">
+Вселена и разум 4 ("Схващане за всеобщата предопределеност 4")</a> - произход на повторенията на събития в различни равнища на Вселенския сметач и на нецеливите, за преживяващия ги разум, съвпадения с ниска вероятност; мисли за мисленето, анализ на смисъла на изречение; за реда и безредието; за сънища; за енергия; за поезия; виж сам.  (бр.29, апр. 2004)
+<li><a href="https://web.archive.org/web/20041020165305/http://bgit.net/?id=65395">Анализ на смисъла на изречение въз основа на базата знания на действаща мислеща машина. Мисли за смисъла и изкуствената мисъл.</a>(бр.29, апр. 2004).<br> Ако връзката към bgit не работи, използвай тази: <a href="netid-65395.html"> Анализ на смисъла...</a>
+<li><a href="https://web.archive.org/web/20041020165359/http://bgit.net/?id=65835"> Абстрактна теория за "изключенията от правилата" в изчислителните машини. Теория за управляващите устройства и управлението.</a> (бр.29, апр. 2004)
+<li><a href="http://www.oocities.org/eimworld/4/29/istikrat.htm">"Истината"</a> - разказ за Мислещата машина; съкратена версия на повестта (29, апр.2004)<br>&nbsp
+<li><a href="http://www.oocities.org/eimworld/4/28/28.htm">
+"Ада"</a> - фантастичен фантасмагоричен техничарски програмистки кибернетичен философски приключенски любовен пародиен комичен трагичен  роман (бр.28, февр. 2004)
+<li><a href="http://www.oocities.org/eimworld/3/26/istinata11.htm">
+"Истината"</a> - повест за Мислещата машина; второ издание (бр.26, септември 2003)
+<li><a href="http://www.oocities.org/eimworld/3/25/pred-3.htm">
+Схващане за всеобщата предопределеност 3</a> (бр.25, юли-август 2003)
+<li><a href="http://www.oocities.org/eimworld/eim22n/eim24/otsechka.htm">Как се чертае отсечка</a> (бр.24, юни 2003) <!-- http://bgit.net/?id=57054 -->
+<li><a href="http://www.oocities.org/eimworld/eim22n/eim23/emil04052003.htm">Творчеството е подражание на ниво алгоритми</a> (бр.23, май 2003)
+<li><a href="http://www.oocities.org/eimworld/eim22n/eim22/matrica.htm">Матрицата в "Матрицата" е матрица в матрицата</a> (бр.22, април 2003)
+<li><a href="http://www.oocities.org/eimworld/eim20/emil.htm">Емил и Кибертрон</a> (бр.20, февруари 2003)
+<li><a href="http://www.oocities.org/eimworld/eim19/istinata.htm">Истината</a> - разказ/повест (бр.19, декември 2002) 
+<!-- <li> <a href="http://www.oocities.org/eimworld/eim19/istinata.htm">Истината</a> - разказ/повест (бр.19, декември 2002) -->
+<li><a href="http://www.oocities.org/eimworld/eim18/predopredelenost2.htm">Схващане за всеобщата предопределеност 2</a> - Вселената сметач и мн.др. Бр.18, октомври/2002<br>
+<li><a href="http://www.oocities.org/eimworld/eim18/predopredelenost2.htm">Следващото 
+еволюционно стъпало 2</a> (като част от "Схващане за всеобщата предопределеност 2", бр.18, октомври/2002)
+<li><a href="http://www.oocities.org/eimworld/eim17/sledvashtoto.htm">Следващото еволюционно стъпало</a> (бр.17)<br>
+<li><a href="http://www.oocities.org/eimworld/eim17/predopredelenost.htm">Схващане за всеобщата предопределеност</a> (бр.17, юли/2002)<br>
+<li><a href="http://www.oocities.org/eimworld/eimworld13/izint_13.html">Човекът и Мислещата машина </a>(Анализ на възможността да се създаде Мислеща Машина и някои недостатъци на човека и органичната материя пред нея)</a>, брой 13-ти на "Свещеният сметач", декември 2001 г.<br>&nbsp
+
+
+** Other later works (incomplete list) **
+
+The blog "Artificial Mind", also "Todor Arnaudov's Research[es]": http://artificial-mind.blogspot.com
+
+## The Notes Part to the interdisciplinary work: "What a man needs? If you play by the rules you'll lose like the fools!", T.Arnaudov, 2014 ("Какво му трябва на човек? Играеш ли по правилата ще загубиш играта!"). Many articles and references and mappings between claims: see 200, 210, 267, 269; 103 etc. 
+https://razumir.twenkid.com/kakvomu_notes.html
+* 200 **Hypothesis about the deeper consciousness (Хипотеза за по-дълбокото съзнание)** https://razumir.twenkid.com/kakvomu_notes.html#200
+* 210 **Creativity is a systematic process, see also 84: Creativity is an immitation at algorithmic level", Творчеството е систематичен процес, виж (84)" Творчеството е подражание на ниво алгоритми" 
+* 267 **The truth according to Engels**
+
+Compare the intro to note 269 with the intros of the colleagues which were quoted from the panels below, and mine: [Translated with Google Translated and a few corrections/word choices/multiple words]
+
+* 269 **In general, those who do not understand - unable and unwilling to understand magnify the "mysterious" and emotions; and those who can and want to understand - reason, the management of things. The latter also have emotions - like all animals - but they see them as something obvious and elementary, because even animals have feelings - they are at the base of the pyramid. On the other hand - the spectrum of the mind has a huge scope and not everyone has reason; he is the blade of progress - the top of the pyramid.** The first understand - know - only that they do not understand a given object of study, more specifically why this or that happens, with a sufficiently high resolution and in terms related to their volitional behavior (not the will in the Holy sense) - whether what is happening it's up to them, whether it's controllable, etc. (104) The latter understand the object of study as well as understand that they understand it and systematically increase the resolution, clarity and scope of understanding as prediction/anticipation. (104)
+These guidelines are related to the perception of the concept of "free will". (103)(104)
+The second type lean towards Hegel's definition, expanded by Engels in "Anti-Dühring" (267.1) and quoted by Lenin in "Materialism and Empiriocriticism" (268), and thought also by philosophers and mathematicians such as Laplace, in also by Schopenhauer (235)(236) - in the latter as the increasing distinctness of the higher forms of objectification of the will. In T.Arnaudov's (103)(104) the evolution of the universe is a drive to create imaginary universes of a higher level, which are increasingly better at foreseeing the future - knowing the laws of the sub-universe in which they exist, as well as their own - of their internal working/mechanisms/processes.
+This type of thinker often has a broad knowledge of the private sciences, mathematics, combines the humanities and exact sciences and has a bias towards Systems Theory, Cybernetics. (...)  
+
+etc.
+
+(...)
+
+...
+
+**Other cognitive science, philosophy of mind, AGI, hypothesis about the brain and evolution etc. ** 
+
+* Abstract Addressing and Discontinuous Addressing Impede Processing in Generalizing Hierarchies, 29.11.2011: http://artificial-mind.blogspot.com/2011/11/abstract-addressing-and-discontinuous.html
+* Faults in Turing Test and Lovelace Test. Introduction of Educational Test.
+http://artificial-mind.blogspot.com/2007/11/faults-in-turing-test-and-lovelace-test.html
+* Supports for the Hypothesis of Higher Brains Re-iterating the Functions of the Lower Ones - implies that the function of the higher ones could be induced by understanding the functions of the lower ones and extending them
+http://artificial-mind.blogspot.com/2013/08/supports-of-hypothesis-of-higher-brains.html
+* Learned or Innate? Nature or Nurture? Speculations of how a mind can grasp on its own: animate/inanimate objects, face recognition, language...
+http://artificial-mind.blogspot.com/2010/04/learned-or-innate-nature-or-nurture.html
+
+
+| Bulgarian        | Published | English           | Notes  |
+| ------------- |:-------------:| -----:|  -----:|
+| Къде отиваш свят? - създаването на мислещата машина - машината Бог <br>https://github.com/Twenkid/Theory-of-Universe-and-Mind/blob/main/1999.md     |12.1999 | "World, where you go?" - the creation of the thinking machine - machine God | Essay, Radio "Plovdiv", incentive prize|
+|   |
+| Човекът и Мислещата машина (Анализ на възможността да се създаде Мислеща Машина и някои недостатъци на човека и органичната материя пред нея), брой 13-ти на "Свещеният сметач", декември 2001 г.  https://www.oocities.org/eimworld/eimworld13/izint_13.html <br>  http://eim.twenkid.com/old/eimworld/eimworld13/izint_13.html |12.2001 | "Man and Thinking Machine (Analysis of the possibility to create a Thinking Machine and some of man and organic matter compared to the machine), issue #13 of e-zine "The Sacred Computer", 12/2001 | |
+| Матрицата в "Матрицата" е матрица в матрицата      | 2003 | The Matrix in "The Matrix" is a matrix in the Matrix <br> https://medium.com/@todorarnaudov/the-matrix-in-the-matrix-is-a-matrix-in-the-matrix-895e86c5f002 <br> Compare with Levin's about "simulation" in #1 | ... |
+
+
+1. Levin, M., Farias C., Agency, Attractors, & Observer-Dependent Computation in Biology & Beyond, The Truth w/ Carlos Farias, 11.5.2023, https://www.youtube.com/watch?v=whZRH7IGAq0
+
 **Other specific discussions which address ideas from The Theory of Universe and Mind**
 * Conversation between Mark Solms, Chris Fields, and Mike Levin 3, 4.5.2023:
 https://www.youtube.com/watch?v=klK_L73wLKk
@@ -129,7 +252,7 @@ The common of the above with which humans "bond" is actually their own self. All
 
 ## More detailed and exhaustive comparisons and display of the matches and differences to come. ... 
 
-One current note on the M.Solms paper cited above, I skimmed it now as I write this (15.5.2023): IMO the notion of "consciousness" and "consciousness" are confused: what the psychologist use to call "subconscious" is actually just another form and a part of the territory of the consciousness. The levels of accessibility to different parts of that mental space varies per individual. In Claim #3 in his paper he says: _"Most of our predictions are executed unconsciously. As we saw above, cognitive consciousness (short-term “working memory”) is an extremely limited resource" and  "Multiple unconscious (non-declarative) memory systems exist,"_. Under this definition of consciousness I agree (see above e.g. the match of Y.Bengio's "Consciousness Prior" to ToUM ), however I don't think the activities which are performed more "automatically" are not conscious and I've discussed that either in the classic 2001-2004 works from ToUM and later in the extensive note-articles of the interdisciplinary book "What a man needs? If you play by the rules you'll lose like the fools!", 2014 ("Какво му трябва на човек? Играеш ли по правилата ще загубиш играта!"). There is an article about a Hypothesis about the deeper consciousness. Note #200: https://razumir.twenkid.com/kakvomu_notes.html#200 See also the linked article about the multi-interdisciplinary blindness of the researchers in the AGI field which I criticized in 2013: https://artificial-mind.blogspot.com/2013/08/issues-on-agiri-agi-email-list-and-agi.html The most of the people are unaware, can't think of, can't analyse, can't distinguish, classify, work with, learn, etc. with  phenomenons, which are trivial and completely obvious and transparent for others who posses the respective talent in music, art, physical, mathematical etc. modalitiy.  The ones who can't understand cannot learn or struggle to learn even the  trivial patterns and activities for the talented or ingenious ones, and at worse they can only follow exact instructions, i.e. without building a deeper internal representation and predictive model covering the the respective modality, only copying the most superficial representation they have access to. 
+One current note on the M.Solms paper cited above, I skimmed it now as I write this (15.5.2023): IMO the notion of "consciousness" and "consciousness" are confused: what the psychologist use to call "subconscious" is actually just another form and a part of the territory of the consciousness. The levels of accessibility to different parts of that mental space vary per individual and in time. Also in my experience, observations, exploration, reasoning a lot of the emotional problems are actually physical, their solution is a correction of the body, including brain, by proper simple living protocols, natural substances such as  food, the well known Mg, K, enough vitamin B, Zinc, repairing a broken metabolism such as diabetic related and insuline resistence, fixing the digestive system and microbiota, building enough of muscle mass and moving enough which helps the sugar metabolism as well, dealing with addictions with the above, all goes with the production of enough of appropriate hormones from all glands; reducing cortisol/stress, which may require a change in the environment which often is too hard and that leads to cyclic frustration. The work seems to use prediction-misprediction concepts similar to the general notions in ToUM (2001-2004). In Claim #3 in the paper is said: _"Most of our predictions are executed unconsciously. As we saw above, cognitive consciousness (short-term “working memory”) is an extremely limited resource" and  "Multiple unconscious (non-declarative) memory systems exist,"_. Under this definition of consciousness I agree (see above e.g. the match of Y.Bengio's "Consciousness Prior" to ToUM ), however I don't think the activities which are performed more "automatically" are not conscious and I've discussed that either in the classic 2001-2004 works from ToUM and later in the extensive note-articles of the interdisciplinary book "What a man needs? If you play by the rules you'll lose like the fools!", 2014 ("Какво му трябва на човек? Играеш ли по правилата ще загубиш играта!"). There is an article about a Hypothesis about the deeper consciousness. Note #200: https://razumir.twenkid.com/kakvomu_notes.html#200 See also the linked article about the multi-interdisciplinary blindness of the researchers in the AGI field which I criticized in 2013: https://artificial-mind.blogspot.com/2013/08/issues-on-agiri-agi-email-list-and-agi.html The most of the people are unaware, can't think of, can't analyse, can't distinguish, classify, work with, learn, etc. with  phenomenons, which are trivial and completely obvious and transparent for others who posses the respective talent in music, art, physical, mathematical etc. modalitiy.  The ones who can't understand cannot learn or struggle to learn even the  trivial patterns and activities for the talented or ingenious ones, and at worse they can only follow exact instructions, i.e. without building a deeper internal representation and predictive model covering the the respective modality, only copying the most superficial representation they have access to. 
 
 In the classic works I discuss the paradox that the better one becomes in an art, say an improvising guitarist or any musician, the more "automatic", which in the Yunashki dialect (an extension of Bulgarian which I also developed at the time) it's translated as "humanless" (безчовешко). If it's called "subconscious" that is suggesting that the better and smarter you become, the "dumber" "you" get, if "you" identify yourself with that special "consciousness" that is supposed to be only the current short-term memory, working memory, the declarative memory, or I the biographical memory; it "seems to be" what's associated with "consciousness", some refer to "what can be verbalised", which alone is obviously not correct as one can get a stroke and be aware while having it, also soon she could have his brain severly damaged and still be completely aware of the terrible condition where she got, even though she could never more be able to speak or never to regain the same capacity and lose memory etc. Where "aware" means expressing behaviors which one who does understand what his condition is would be expressing also verbally if he had the capacity - we can convey meaning and thoughts without speaking.
 
@@ -139,129 +262,7 @@ The #210 article-note discusses also the dichotomy of apodictic and discoursive 
 
 ...
 
-## Original publications
 
-А "pre-prophecy" from 1999, the essay: "Where the world goes?" (to the creation of the Thinking Machine - The Machine God)
-* https://github.com/Twenkid/Theory-of-Universe-and-Mind/blob/main/1999.md
-
-The page of "Society Mind/Reason" ("Дружество Разум")
-
-* http://eim.twenkid.com/old/razum
-* https://www.oocities.org/eimworld/razum/
-
-*Also*
-
-* AGI interdisciplinary institute strategy, the claim about the general algorithm etc., 2003 : https://www.oocities.org/todprog/ese/proekt.htm
-* Truth, Match, Line-drawing/tracing (see CogAlg/SuperCogAlg and future works), 2003 : https://www.oocities.org/eimworld/eim22n/eim24/otsechka.htm
-* The absurdity and ill-definition of the copyright text in books; about compositional features, hierarchy, segmentation, ... 2002-2003* : an ironic article, actual now with the generative models. Bulgarian: "Всички права запазени!": http://eim.twenkid.com/old/eim22n/eim22/prava22.htm 
-English, Google Translated: "All rights reserved!" https://eim-twenkid-com.translate.goog/old/eim22n/eim22/prava22.htm?_x_tr_sch=http&_x_tr_sl=bg&_x_tr_tl=en&_x_tr_hl=bg&_x_tr_pto=wapp
-
-Materials for the world's first university course in AGI, 2010-2011
-* https://research.twenkid.com/agi/2010/
-* https://research.twenkid.com/agi/2010/en
-* https://research.twenkid.com/agi/2010/en/Todor_Arnaudov_Theory_of_Hierarchical_Universal_Simulators_of_universes_Eng_MTR_3.pdf
-* https://research.twenkid.com/agi/2010/en/Todor_Arnaudov_Theory_of_Universe_and_Mind_3.pdf
-* https://research.twenkid.com/agi/2010/en/Todor_Arnaudov_Theory_of_Universe_and_Mind_4.pdf
-* https://research.twenkid.com/agi/2010/en/Whats_wrong_with_NLP_links.htm
-* https://research.twenkid.com/agi/2010/en/General_Intelligence_Principles_Caffe_Sci_2009_MTR.pdf
-
-A translation of one 2004 work:
-http://artificial-mind.blogspot.com/2010/01/semantic-analysis-of-sentence.html
-
-* Part 1 (и български):(This Post) Semantic analysis of a sentence. Reflections about the meaning of the meaning and the Artificial Intelligence 
-* Part 2 (и български): Causes and reasons for human actions. Searching for causes. Whether higher or lower levels control. Control Units. Reinforcement learning. 
-* Part 3 (и български): Motivation is dependent on local and specific stimuli, not general ones. Pleasure and displeasure as goal-state indicators. Reinforcement learning.
-* Part 4 : Intelligence: search for the biggest cumulative reward for a given period ahead, based on given model of the rewards. Reinforcement learning.
-* http://artificial-mind.blogspot.com/2010/01/semantic-analysis-of-sentence.html
-* http://artificial-mind.blogspot.com/2010/02/causes-and-reasons-for-any-particular.html
-* http://artificial-mind.blogspot.com/2010/02/motivation-is-dependent-on-local-and.html
-* http://artificial-mind.blogspot.com/2010/02/intelligence-search-for-biggest.html
-
-...
-
-## Direct Links to Works | Преки връзки към произведения
-
-**The "classical" works 2001-2004**
-
-The first AGI-related article in "The Sacred Computer" e-zine defining AGI and "Seed AI" (Зародиш на разум): April 2001. (Bulgarian)
-https://www.oocities.org/eimworld/eimworld6/eimmain6.html
-
-An AGI strategy, about May-June 2003: (Bulgarian)
-**The visionary strategical essay/proposal for creation of an interdisciplinary research institute in AGI, published in 2003, with many ideas followed by DeepMind and programs since late 2010s and on** (I've been implementing the interdisciplinary approach myself for my whole life)
-https://translate.google.com/translate?sl=auto&tl=en&u=https://artificial-mind.blogspot.com/2020/07/interdisciplinary-research-institute.html
-https://www.oocities.org/todprog/ese/proekt.htm
-
-*In oocities.org - geocities archive or archive.org: change "www.oocities.org" to "www.geocities.com" and check in Archive.org
-<li><a href="http://www.oocities.org/eimworld/4/30/30.htm" target="new">Разговори за Изкуствен разум между Тош и тайнствения тип Астер Трафиков "Ловеца", известен още като... Галина "ТХ" Славина</a> (бр.30, септ. 2004)  (in archive.org)
-<li><a href="http://www.oocities.org/eimworld/4/29/pred4.htm" target="new">
-Вселена и разум 4 ("Схващане за всеобщата предопределеност 4")</a> - произход на повторенията на събития в различни равнища на Вселенския сметач и на нецеливите, за преживяващия ги разум, съвпадения с ниска вероятност; мисли за мисленето, анализ на смисъла на изречение; за реда и безредието; за сънища; за енергия; за поезия; виж сам.  (бр.29, апр. 2004)
-<li><a href="https://web.archive.org/web/20041020165305/http://bgit.net/?id=65395">Анализ на смисъла на изречение въз основа на базата знания на действаща мислеща машина. Мисли за смисъла и изкуствената мисъл.</a>(бр.29, апр. 2004).<br> Ако връзката към bgit не работи, използвай тази: <a href="netid-65395.html"> Анализ на смисъла...</a>
-<li><a href="https://web.archive.org/web/20041020165359/http://bgit.net/?id=65835"> Абстрактна теория за "изключенията от правилата" в изчислителните машини. Теория за управляващите устройства и управлението.</a> (бр.29, апр. 2004)
-<li><a href="http://www.oocities.org/eimworld/4/29/istikrat.htm">"Истината"</a> - разказ за Мислещата машина; съкратена версия на повестта (29, апр.2004)<br>&nbsp
-<li><a href="http://www.oocities.org/eimworld/4/28/28.htm">
-"Ада"</a> - фантастичен фантасмагоричен техничарски програмистки кибернетичен философски приключенски любовен пародиен комичен трагичен  роман (бр.28, февр. 2004)
-<li><a href="http://www.oocities.org/eimworld/3/26/istinata11.htm">
-"Истината"</a> - повест за Мислещата машина; второ издание (бр.26, септември 2003)
-<li><a href="http://www.oocities.org/eimworld/3/25/pred-3.htm">
-Схващане за всеобщата предопределеност 3</a> (бр.25, юли-август 2003)
-<li><a href="http://www.oocities.org/eimworld/eim22n/eim24/otsechka.htm">Как се чертае отсечка</a> (бр.24, юни 2003) <!-- http://bgit.net/?id=57054 -->
-<li><a href="http://www.oocities.org/eimworld/eim22n/eim23/emil04052003.htm">Творчеството е подражание на ниво алгоритми</a> (бр.23, май 2003)
-<li><a href="http://www.oocities.org/eimworld/eim22n/eim22/matrica.htm">Матрицата в "Матрицата" е матрица в матрицата</a> (бр.22, април 2003)
-<li><a href="http://www.oocities.org/eimworld/eim20/emil.htm">Емил и Кибертрон</a> (бр.20, февруари 2003)
-<li><a href="http://www.oocities.org/eimworld/eim19/istinata.htm">Истината</a> - разказ/повест (бр.19, декември 2002) 
-<!-- <li> <a href="http://www.oocities.org/eimworld/eim19/istinata.htm">Истината</a> - разказ/повест (бр.19, декември 2002) -->
-<li><a href="http://www.oocities.org/eimworld/eim18/predopredelenost2.htm">Схващане за всеобщата предопределеност 2</a> - Вселената сметач и мн.др. Бр.18, октомври/2002<br>
-<li><a href="http://www.oocities.org/eimworld/eim18/predopredelenost2.htm">Следващото 
-еволюционно стъпало 2</a> (като част от "Схващане за всеобщата предопределеност 2", бр.18, октомври/2002)
-<li><a href="http://www.oocities.org/eimworld/eim17/sledvashtoto.htm">Следващото еволюционно стъпало</a> (бр.17)<br>
-<li><a href="http://www.oocities.org/eimworld/eim17/predopredelenost.htm">Схващане за всеобщата предопределеност</a> (бр.17, юли/2002)<br>
-<li><a href="http://www.oocities.org/eimworld/eimworld13/izint_13.html">Човекът и Мислещата машина </a>(Анализ на възможността да се създаде Мислеща Машина и някои недостатъци на човека и органичната материя пред нея)</a>, брой 13-ти на "Свещеният сметач", декември 2001 г.<br>&nbsp
-
-
-** Other later works (incomplete list) **
-
-The blog "Artificial Mind", also "Todor Arnaudov's Research[es]": http://artificial-mind.blogspot.com
-
-## The Notes Part to the interdisciplinary work: "What a man needs? If you play by the rules you'll lose like the fools!", T.Arnaudov, 2014 ("Какво му трябва на човек? Играеш ли по правилата ще загубиш играта!"). Many articles and references and mappings between claims: see 200, 210, 267, 269; 103 etc. 
-https://razumir.twenkid.com/kakvomu_notes.html
-* 200 **Hypothesis about the deeper consciousness (Хипотеза за по-дълбокото съзнание)** https://razumir.twenkid.com/kakvomu_notes.html#200
-* 210 **Creativity is a systematic process, see also 84: Creativity is an immitation at algorithmic level", Творчеството е систематичен процес, виж (84)" Творчеството е подражание на ниво алгоритми" 
-* 267 **The truth according to Engels**
-
-Compare the intro to note 269 with the intros of the colleagues which were quoted above and mine: [Translated with Google Translated and a few corrections/word choices/multiple words]
-
-* 269 **In general, those who do not understand - unable and unwilling to understand magnify the "mysterious" and emotions; and those who can and want to understand - reason, the management of things. The latter also have emotions - like all animals - but they see them as something obvious and elementary, because even animals have feelings - they are at the base of the pyramid. On the other hand - the spectrum of the mind has a huge scope and not everyone has reason; he is the blade of progress - the top of the pyramid.** The first understand - know - only that they do not understand a given object of study, more specifically why this or that happens, with a sufficiently high resolution and in terms related to their volitional behavior (not the will in the Holy sense) - whether what is happening it's up to them, whether it's controllable, etc. (104) The latter understand the object of study as well as understand that they understand it and systematically increase the resolution, clarity and scope of understanding as prediction/anticipation. (104)
-These guidelines are related to the perception of the concept of "free will". (103)(104)
-The second type lean towards Hegel's definition, expanded by Engels in "Anti-Dühring" (267.1) and quoted by Lenin in "Materialism and Empiriocriticism" (268), and thought also by philosophers and mathematicians such as Laplace, in also by Schopenhauer (235)(236) - in the latter as the increasing distinctness of the higher forms of objectification of the will. In T.Arnaudov's (103)(104) the evolution of the universe is a drive to create imaginary universes of a higher level, which are increasingly better at foreseeing the future - knowing the laws of the sub-universe in which they exist, as well as their own - of their internal working/mechanisms/processes.
-This type of thinker often has a broad knowledge of the private sciences, mathematics, combines the humanities and exact sciences and has a bias towards Systems Theory, Cybernetics. (...)  
-
-etc.
-
-(...)
-
-...
-
-**Other cognitive science, philosophy of mind, AGI, hypothesis about the brain and evolution etc. ** 
-
-* Abstract Addressing and Discontinuous Addressing Impede Processing in Generalizing Hierarchies, 29.11.2011: http://artificial-mind.blogspot.com/2011/11/abstract-addressing-and-discontinuous.html
-* Faults in Turing Test and Lovelace Test. Introduction of Educational Test.
-http://artificial-mind.blogspot.com/2007/11/faults-in-turing-test-and-lovelace-test.html
-* Supports for the Hypothesis of Higher Brains Re-iterating the Functions of the Lower Ones - implies that the function of the higher ones could be induced by understanding the functions of the lower ones and extending them
-http://artificial-mind.blogspot.com/2013/08/supports-of-hypothesis-of-higher-brains.html
-* Learned or Innate? Nature or Nurture? Speculations of how a mind can grasp on its own: animate/inanimate objects, face recognition, language...
-http://artificial-mind.blogspot.com/2010/04/learned-or-innate-nature-or-nurture.html
-
-
-| Bulgarian        | Published | English           | Notes  |
-| ------------- |:-------------:| -----:|  -----:|
-| Къде отиваш свят? - създаването на мислещата машина - машината Бог <br>https://github.com/Twenkid/Theory-of-Universe-and-Mind/blob/main/1999.md     |12.1999 | "World, where you go?" - the creation of the thinking machine - machine God | Essay, Radio "Plovdiv", incentive prize|
-|   |
-| Човекът и Мислещата машина (Анализ на възможността да се създаде Мислеща Машина и някои недостатъци на човека и органичната материя пред нея), брой 13-ти на "Свещеният сметач", декември 2001 г.  https://www.oocities.org/eimworld/eimworld13/izint_13.html <br>  http://eim.twenkid.com/old/eimworld/eimworld13/izint_13.html |12.2001 | "Man and Thinking Machine (Analysis of the possibility to create a Thinking Machine and some of man and organic matter compared to the machine), issue #13 of e-zine "The Sacred Computer", 12/2001 | |
-| Матрицата в "Матрицата" е матрица в матрицата      | 2003 | The Matrix in "The Matrix" is a matrix in the Matrix <br> https://medium.com/@todorarnaudov/the-matrix-in-the-matrix-is-a-matrix-in-the-matrix-895e86c5f002 <br> Compare with Levin's about "simulation" in #1 | ... |
-
-
-
-1. Levin, M., Farias C., Agency, Attractors, & Observer-Dependent Computation in Biology & Beyond, The Truth w/ Carlos Farias, 11.5.2023, https://www.youtube.com/watch?v=whZRH7IGAq0
 
 
 
