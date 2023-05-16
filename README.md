@@ -50,6 +50,8 @@ The classic page of "Society Mind/Reason" ("Дружество Разум")
 * The absurdity and ill-definition of the copyright text in books; about compositional features, hierarchy, segmentation, ... 2002-2003* : an ironic article, actual now with the generative models. Bulgarian: "Всички права запазени!": http://eim.twenkid.com/old/eim22n/eim22/prava22.htm 
 English, Google Translated: "All rights reserved!" https://eim-twenkid-com.translate.goog/old/eim22n/eim22/prava22.htm?_x_tr_sch=http&_x_tr_sl=bg&_x_tr_tl=en&_x_tr_hl=bg&_x_tr_pto=wapp
 
+* "Principles of General Intelligence: Intelligence ~ Universe" - slides for a presentation given during an event in 2009 at Sofia Technical University, originally titled: "The Time Machine Exists: The Mind" (referring to general intelligence as a capacity for predictioon and causation and a universal simulation of virtual universes, predicting the future by creating models of the past etc.) https://research.twenkid.com/agi/2010/en/General_Intelligence_Principles_Caffe_Sci_2009_MTR.pdf
+
 * **"I will Create a Thinking Machine that will Self-Improve (an Interview with Todor): Dreamers and adventurers make the great discoveries. The scepticists' job is to deny their visions, and eventually not to believe their eyes"** http://artificial-mind.blogspot.com/2010/01/i-will-create-thinking-machine-that.html
  [the magazine editors choice of word for Self-Improve" in Bulgarian was "Self-Complexifies", to make itself more complex, due to the accumulation of complexity from the environment]
 
@@ -191,11 +193,10 @@ That is a claim that this view implies that this type of embodiment could apply 
 Regarding the ceasing of existence of the higher levels of representations when erros - disallowed states, gross mispredictions, mismatches from the expected/controlled future  happens, - see the short work "Abstract Theory of the Exception of the rules in Computers. A theory about the control units and the control", 2004, where with control I also mean "causation", the simplest form of causation for a computer is to store a particular desired "value", state, memory content, to another "subuniverse"/causality-control unit as it has expected/predicted, and in order to be "real"/true causation-control, it has to happen with the resolution that is the highest for the target virtual universe etc. Both computers and the virtual worlds and levels of causation-control and representation and and Mind are part of the "Universe Computer", different levels/kinds of virtual causality-control units, "subuniverses", universal simulators of virtual universes, "systems". In Friston's terms maybe "Markov blankets".
 https://web.archive.org/web/20041020165359/http://bgit.net/?id=65835 Абстрактна теория за "изключенията от правилата" в изчислителните машини. Теория за управляващите устройства и управлението.
 
-See also the short presentation, given at an event in 2009 at Sofia Technical University, originally titled: "The Time Machine Exists: The Mind" (referring to general intelligence as a capacity for predictioon and causation and a universal simulation of virtual universes, predicting the future by interactively creating models of the past etc.) https://research.twenkid.com/agi/2010/en/General_Intelligence_Principles_Caffe_Sci_2009_MTR.pdf
-
-https://artificial-mind.blogspot.com/2009/09/event-with-me-in-sofia.html 
-
-http://green.democrit.com/bg/articles.php?cell=117 
+See also the slides from a presentation, given at an event in 2009 at Sofia Technical University, translated to English as "Principles of General Intelligence: Intelligence ~ Universe", originally titled and advertised for the general public: *"The Time Machine Exists: The Mind"* (referring to general intelligence as a capacity for predictioon and causation and a universal simulation of virtual universes, predicting the future by interactively creating models of the past etc.): Link to the slides in English and news about the event:
+* https://research.twenkid.com/agi/2010/en/General_Intelligence_Principles_Caffe_Sci_2009_MTR.pdf
+* https://artificial-mind.blogspot.com/2009/09/event-with-me-in-sofia.html 
+* http://green.democrit.com/bg/articles.php?cell=117 
 
 ![image](https://github.com/Twenkid/Theory-of-Universe-and-Mind/assets/23367640/334e5a03-67ad-472c-b60c-7e86bad2a7bc)
 ![image](https://github.com/Twenkid/Theory-of-Universe-and-Mind/assets/23367640/fdabe6c5-8a07-46c3-893d-a8ae5bc704d9)
