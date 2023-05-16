@@ -31,22 +31,25 @@ grounded framework for understanding diverse bodies and minds" (2022), Cognitive
 * G. Georgiev, and I. Georgiev, The least action and the metric of an organized
 system. Open Syst Inf Dyn 9 (2002) 371-380. (cited in Levin's " “Technological Approach to Mind Everywhere (TAME): ...") - note that the authors are also Bulgarian
 
-## Original publications
+## Original publications general locations
 
 А "pre-prophecy" from 1999, the essay: "Where the world goes?" (to the creation of the Thinking Machine - The Machine God)
 * https://github.com/Twenkid/Theory-of-Universe-and-Mind/blob/main/1999.md
 
-The page of "Society Mind/Reason" ("Дружество Разум")
+The classic page of "Society Mind/Reason" ("Дружество Разум")
 
 * http://eim.twenkid.com/old/razum
 * https://www.oocities.org/eimworld/razum/
 
 *Also*
 
-* AGI interdisciplinary institute strategy, the claim about the general algorithm etc., 2003 : https://www.oocities.org/todprog/ese/proekt.htm
+* How Would I Invest 1 Million Euro For The Best Development Of My Country? The interdisciplinary AGI institute strategy, a claim about the general multimodal algorithm etc., 2003 : https://www.oocities.org/todprog/ese/proekt.htm
 * Truth, Match, Line-drawing/tracing (see CogAlg/SuperCogAlg and future works), 2003 : https://www.oocities.org/eimworld/eim22n/eim24/otsechka.htm
 * The absurdity and ill-definition of the copyright text in books; about compositional features, hierarchy, segmentation, ... 2002-2003* : an ironic article, actual now with the generative models. Bulgarian: "Всички права запазени!": http://eim.twenkid.com/old/eim22n/eim22/prava22.htm 
 English, Google Translated: "All rights reserved!" https://eim-twenkid-com.translate.goog/old/eim22n/eim22/prava22.htm?_x_tr_sch=http&_x_tr_sl=bg&_x_tr_tl=en&_x_tr_hl=bg&_x_tr_pto=wapp
+
+* **"I will Create a Thinking Machine that will Self-Improve (an Interview with Todor): Dreamers and adventurers make the great discoveries. The scepticists' job is to deny their visions, and eventually not to believe their eyes"** http://artificial-mind.blogspot.com/2010/01/i-will-create-thinking-machine-that.html
+ [the magazine editors choice of word for Self-Improve" in Bulgarian was "Self-Complexifies", to make itself more complex, due to the accumulation of complexity from the environment]
 
 Materials for the world's first university course in AGI, 2010-2011
 * https://research.twenkid.com/agi/2010/
