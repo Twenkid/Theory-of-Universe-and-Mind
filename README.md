@@ -55,7 +55,7 @@ system. Open Syst Inf Dyn 9 (2002) 371-380. (cited in Levin's " “Technological
 
 ## Original publications general locations
 
-А "pre-prophecy" from 1999, the essay: "Where the world goes?" (to the creation of the Thinking Machine - The Machine God)
+А "pre-prophecy" from 1999, the essay: "Where, you World, go?" ("Къде отиваш свят?") - my answer was: "towards the creation of the Thinking Machine - The Machine God"
 * https://github.com/Twenkid/Theory-of-Universe-and-Mind/blob/main/1999.md
 
 The classic page of "Society Mind/Reason" ("Дружество Разум")
