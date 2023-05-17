@@ -73,7 +73,7 @@ English, Google Translated: "All rights reserved!" https://eim-twenkid-com.trans
 * "Principles of General Intelligence: Intelligence ~ Universe" - slides for a presentation given during an event in 2009 at Sofia Technical University, originally titled: "The Time Machine Exists: The Mind" (referring to general intelligence as a capacity for predictioon and causation and a universal simulation of virtual universes, predicting the future by creating models of the past etc.) https://research.twenkid.com/agi/2010/en/General_Intelligence_Principles_Caffe_Sci_2009_MTR.pdf
 
 * **"I will Create a Thinking Machine that will Self-Improve (an Interview with Todor): Dreamers and adventurers make the great discoveries. The scepticists' job is to deny their visions, and eventually not to believe their eyes"** http://artificial-mind.blogspot.com/2010/01/i-will-create-thinking-machine-that.html
- [the magazine editors choice of word for Self-Improve" in Bulgarian was "Self-Complexifies", to make itself more complex, due to the accumulation of complexity from the environment]
+[The word in the Bulgarian title for Self-Improve" was "Самоусложнява" - "Self-Complexifies": to make itself more complex, due to the accumulation of complexity from the environment. I preferred "self-improve" for better sounding in English, but both are correct and the complexification is a part of the improvement. The complexification is in the domains of richness, variety, length, span, depth, scale etc. of the representational and causal power. ]
 
 Materials for the world's first university course in AGI, 2010-2011
 * https://research.twenkid.com/agi/2010/
