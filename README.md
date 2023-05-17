@@ -342,10 +342,11 @@ The logic expressed above, if correct, that say particular kinds of conscious ex
 
 On the other hand, the electronic processes may involve other kinds of "tag updating" and thus different kind of "consciousness", which respectively the biological beings like us couldn't experience. See e.g. T.Arnaudov's SF novel "The Truth", 12.2002 (Истината).
 
+(...)
 
-* A brief comment about Free Energy Principle when I first discovered Friston's work from the above cited article of mine about "Ultimate AI", 2018:
+* My first quick comments about Free Energy Principle in the article about "Ultimate AI", 2018:
 
-_2. CogAlg and Free Energy Principle
+_**2. CogAlg and Free Energy Principle**_
 
 _I asked the owner of the CogAlg project Boris about his opinion, he said that he's been hearing about that theory "at least from a decade" and in short he didn't seem impressed, because it was "nothing novel"._
 
