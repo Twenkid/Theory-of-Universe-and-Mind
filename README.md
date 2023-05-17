@@ -309,6 +309,15 @@ _Todor Arnaudov: I believe that the biggest obstacle today is time. There are di
 
 The latter idea about the compositional predictions is stated at least as early as in the 12/2001: "Man and Thinking Machine: Analysis of the possibility a thinking machine to be created and some of the disadvantages of humans and organic matter compared to them":
 
+(...)
+
+See Richard Watson's at ~33:30 - 39 min - different levels of description and organization, which are causal, and the discussion about the determination between the different levels; self-consistent in the layer and communicates something up and down; ...  39 min: Mark: the levels of individuation ... however another POV, to consciousness, he doesn't think it's the right frame of reference; he asks what it's like to be a neuron, a brain, a neocortex from their subjective POV [not as a position in an emergent hierarchy]; ...
+
+Todor: I would comment here about the parts and the whole, the common saying that in a system the whole is "more than the sum of the parts", or it should be "non-linear"etc. IMO the "sum of the parts" is confused - these are not numbers, numbers are summed. What's the proper rule to sum elements which do not have a defined function for summation? sum(a, b, c, d, e ...) The feel of "moreness" come from improper, incomplete, imprecise etc. definitions and models of what's that undefined "sum". 
+
+Mark,@53:30 min: that he has an intuition that a group is not the same like to be an individual, but Richard has a good point that "your cells would think the same about you". 
+
+Todor: I could give my logical reason/explanation why a group doesn't feel the same as an individual, I've had similar intuition regarding a concept from Dialectical materialism philosophy called "collective consciousness". IMO there's no such thing as an entity having "phenomenological consciousness", but it's rather a metaphor and it's individuals who have particular properties, believes etc. which are associated with that "collective consciousness", similarly with the "collective unconsciousness" in psychology - Jung. One reason could be the greater causal distance and indirection - at an organism level the cells are more closely originating from the same cell and in constant "close" interaction and possibly synchronization of some causal "markers".
 
 
 
