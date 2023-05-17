@@ -2,7 +2,7 @@
 
 [Version of the document: 17.5.2023]
 
-Todor Arnaudov's "Theory of Universe and Mind" (Also "Theory of Mind and Universe", or "Вселена и Разум", "Теория на Разума и Вселената"; a file for the AGI course was titled also "Theory of Hierarchical Universal Simulators of Universes"), a body of work that was originally created and published between 2001-2004, is a general abstract "theory of everything", unifying Cybernetical Digital Physics Cosmology and Evolution of the Universe with (Artificial) General Intelligence and Philosophy of Mind, human motivation and drives, behavior,decision making, reinforcement learning, society (...). 
+Todor Arnaudov's "Theory of Universe and Mind" (Also "Theory of Mind and Universe", or "Вселена и Разум", "Теория на Разума и Вселената"; a file for the AGI course was titled also "Theory of Hierarchical Universal Simulators of Universes"), a body of work that was originally published between 2001-2004*, is a general abstract "theory of everything", unifying Cybernetical Digital Physics Cosmology and Evolution of the Universe with (Artificial) General Intelligence and Philosophy of Mind, human motivation and drives, behavior,decision making, reinforcement learning, society (...). 
 
 This theory is yet a little known predecessor of many other analogical, related and similar works and theories, which are recently getting more elaborated, technical, scientifically and empirically grounded and unlike 20 years ago now promoted by numerous world renowned researchers and their colleagues and  followers. I discovered Karl Friston's "Free energy principle" theory in late 2018 from an interview for <a href="https://www.wired.com/story/karl-friston-free-energy-principle-artificial-intelligence/?utm_source=facebook&utm_cnbc=social&utm_campaign=psocial_cnbc&utm_brand=wired&utm_social-type=owned&__source=facebook%7Cmain">Wired</a> and discussed my first impressions and a work of his follower Eray Yozkural on his notion of <a href="http://artificial-mind.blogspot.com/2018/12/ultimate-ai-free-energy-principle-and.html">Ultimate AI</a>; I first found Michael Levin and his work as late as late February? 2023 and some of his papers about TAME, <a href="https://www.frontiersin.org/articles/10.3389/fpsyg.2019.02688/full">Scale-Free Cognition</a>, the idea of the Cognitive lightcone, Stress and Care are published in the last few years. Ideas and directions from Jeff Hawkins' book "On Intelligence"/Memory Prediction Framework (published late 2004) was the first detected match which I discovered in the summer of 2007.
 
@@ -96,7 +96,26 @@ http://artificial-mind.blogspot.com/2010/01/semantic-analysis-of-sentence.html
 * http://artificial-mind.blogspot.com/2010/02/motivation-is-dependent-on-local-and.html
 * http://artificial-mind.blogspot.com/2010/02/intelligence-search-for-biggest.html
 
+* Notes and graphs, recreated from the notes would be published as well in the book "The prophecies of the Thinking Machines: ..." etc.
+
+E.g. notes from 28.12.2022 about the segmentation of the world in "pieces of knowledge" (късове знание):
+
+![image](https://github.com/Twenkid/Theory-of-Universe-and-Mind/assets/23367640/490aa92b-e41e-42bb-bba3-89fbe13e07b1)
+![image](https://github.com/Twenkid/Theory-of-Universe-and-Mind/assets/23367640/9284cf9c-c2a0-424d-b908-e768cedd1347)
+
+ The graph is recreated from the description and the idea. The text in the clipped image refers to the paper "Man and Thinking machine: Analysis ...". These ideas are now addressed in AI as "compositionality", multiscale representation and prediction and "symbol grounding". Note that IMO the dichotomy "symbolic/connectionist" is confused: http://artificial-mind.blogspot.com/2019/04/neural-networks-are-also-symbolic.html
+
+In NLP/LLM ("Large Language Models", IMO the right term is *Sequence* models) they talk also about "referential grounding", as explained for example in a recent MLST video,5.2023: "Compositional Generalization, Referential Grounding & LLMs ... " https://youtu.be/H6bV3OBkMgA.
+However I'd add that in a Mind the knowledge in all modalities, "everything" can be viewed as grounded this way, some kind of "referentially grounded" to either an explicit or implicit particular memory/record/piece of knowledge (pattern, record) which is somehow addressed or/and derived. 
+
+The grounding with "physical", lowest level interactions, from some POV of the levels, is also finally some traces, paths, records of the particular actions, interactions, extracted information etc. and their sources, generalizations, mapping at multiple levels etc. of the evidence and their particular existence, where the "existence" is either as concrete addresses and formats in some computer-way of approaching the data: READ ADDR $A5F463456 ...  or/and in the very structure of the system, as an activation, engaging, "doing" something with particular "body" organs or parts, instead of others, where the "body" could be any part of the system which is "grounded to reality": described in some "lowest level of representation", lowest "virtual universe". This is an "internal physical" grounding. The causality in general, the predictability, is encoded in the consistency and coherence of the operation of the predictable parts of the system for the system as an observer/evaluator of itself. A particular set of prediction of the agent/"self"/system regarding the primary actuators and their feedback with sensors, the sensori-motor loop with the own "body", are significantly more reliable than the sensori-only from the "external world" since earlier stages of the development of the system/self/mind. That's how the Mind discovers what is part of "itself" by sampling/exploring/(or "palpating", "bubbling" with the terms of Mark Solms?, Karl Friston etc.) the "environment" which begins with itself as well. The parts of the "Self" are   more predictable-controllable and they are like that in an earlier stage and with a higher precision, and it's mapped/grounded/coordinated with the primary/earlier/"lower" internal "representations"/structures/content/predictive models.
+
+For "Symbol grounding" usually a 1990 paper is cited with the same name. 
+I'd rather refer to Arthur Schopenhauer's PhD thesis, 1813, called: "On the fourfold root of the principle of sufficient reason".
+
+
 ...
+
 
 ## Direct Links to Works | Преки връзки към произведения
 
