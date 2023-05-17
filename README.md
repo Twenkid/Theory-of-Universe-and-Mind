@@ -343,7 +343,17 @@ The logic expressed above, if correct, that say particular kinds of conscious ex
 On the other hand, the electronic processes may involve other kinds of "tag updating" and thus different kind of "consciousness", which respectively the biological beings like us couldn't experience. See e.g. T.Arnaudov's SF novel "The Truth", 12.2002 (Истината).
 
 
+* A brief comment about Free Energy Principle when I first discovered Friston's work from the above cited article of mine about "Ultimate AI", 2018:
 
+_2. CogAlg and Free Energy Principle
+
+_I asked the owner of the CogAlg project Boris about his opinion, he said that he's been hearing about that theory "at least from a decade" and in short he didn't seem impressed, because it was "nothing novel"._
+
+_As of myself, I think the explicit emphasis of the idea of reducing the space of states for the living organisms and intelligence is suggestive for people who face these ideas for the first time, however it's somewhat obvious for hierarchical systems and even simple "machines", as the gears, the pistons etc. serve as "sub-spaces" which limit and guide the space of possible states._
+
+_As defined in the most ancient basics of "my theory", the higher level patterns are constructed by selected sequences/sets of elements from the lower level which serve as "instructions" (discrete), therefore not all possible combinations are covered. Only a limited space is legal, which respectively reduces the search/combinatorial space of possibilities at the higher level, therefore it has "a reduced space". That's seen in the hierarchical structures in nature: atoms, molecules, cells, tissues etc._
+
+_That "free energy principle" is yet another prove that the general direction towards AGI are getting established in different domains by different researchers_
 
 
 
