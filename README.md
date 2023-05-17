@@ -4,7 +4,7 @@
 
 Todor Arnaudov's "Theory of Universe and Mind" (Also "Theory of Mind and Universe", or "Вселена и Разум", "Теория на Разума и Вселената"; a file for the AGI course was titled also "Theory of Hierarchical Universal Simulators of Universes"), originally created and published between 2001-2004 is a general "theory of everything", unifying Cybernetical Digital Physics Cosmology and Evolution of the Universe with (Artificial) General Intelligence and Philosophy of Mind, human motivation and drives, behavior,decision making, reinforcement learning, society (...). 
 
-This theory is yet a little known predecessor of many other analogical, related and similar works and theories, which are recently getting more elaborated, technical, scientifically and empirically grounded and unlike 20 years ago now promoted by numerous world renowned researchers. I discovered Karl Friston's "Free energy principle" theory in late 2018 from an interview for <a href="https://www.wired.com/story/karl-friston-free-energy-principle-artificial-intelligence/?utm_source=facebook&utm_cnbc=social&utm_campaign=psocial_cnbc&utm_brand=wired&utm_social-type=owned&__source=facebook%7Cmain">Wired</a> and discussed my first impressions and a work of his follower Eray Yozkural on his notion of <a href="http://artificial-mind.blogspot.com/2018/12/ultimate-ai-free-energy-principle-and.html">Ultimate AI</a>; I first found Michael Levin and his work as late as late February? 2023 and some of his papers about TAME, Scale-Free Cognition, the idea of the Cognitive lightcone, Stress and Care are very recent and are cutting edge in 2023.
+This theory is yet a little known predecessor of many other analogical, related and similar works and theories, which are recently getting more elaborated, technical, scientifically and empirically grounded and unlike 20 years ago now promoted by numerous world renowned researchers. I discovered Karl Friston's "Free energy principle" theory in late 2018 from an interview for <a href="https://www.wired.com/story/karl-friston-free-energy-principle-artificial-intelligence/?utm_source=facebook&utm_cnbc=social&utm_campaign=psocial_cnbc&utm_brand=wired&utm_social-type=owned&__source=facebook%7Cmain">Wired</a> and discussed my first impressions and a work of his follower Eray Yozkural on his notion of <a href="http://artificial-mind.blogspot.com/2018/12/ultimate-ai-free-energy-principle-and.html">Ultimate AI</a>; I first found Michael Levin and his work as late as late February? 2023 and some of his papers about TAME, <a href="https://www.frontiersin.org/articles/10.3389/fpsyg.2019.02688/full">Scale-Free Cognition</a>, the idea of the Cognitive lightcone, Stress and Care are published in the last few years. 
 
 Due to the predictions and the large number of matches of future works to the claims, ideas, hypotheses and the reasoning to the works from "Theory of Universe and Mind" (TOUM) and some related works, I recently called them also "The Bulgarian Prophecies" or "The Bulgarian Predictions" in AGI, Philosophy of AI and Mind, Digital physics etc., together with a strategical essay/proposal from 2003 for the development of AGI via the creation of a super interdisciplinary R&D institute and other publications. The "prophecies" are Bulgarian for several reasons: because of my nationality, because they were originally written in Bulgarian and the theory was taught during the world's first, radically interdisciplinary university course in Artificial General Intelligence in 2010 and 2011 at the University of Plovdiv, Bulgaria with working language Bulgarian. Note that the famous MIT's AGI course presented by Lex Fridman and his guest lecturers was offered in 2018. I claim that my course and my syllabum were way better, because they had a strong structure, theory and a coherent message, matched and confirmed by the future. See the syllabum and a video: http://artificial-mind.blogspot.com/2010/04/universal-artificial-intelligence.html
 
@@ -343,20 +343,5 @@ The logic expressed above, if correct, that say particular kinds of conscious ex
 On the other hand, the electronic processes may involve other kinds of "tag updating" and thus different kind of "consciousness", which respectively the biological beings like us couldn't experience. See e.g. T.Arnaudov's SF novel "The Truth", 12.2002 (Истината).
 
 (...)
-
-* My first quick comments about Free Energy Principle in the article about "Ultimate AI", 2018:
-
-_**2. CogAlg and Free Energy Principle**_
-
-_I asked the owner of the CogAlg project Boris about his opinion, he said that he's been hearing about that theory "at least from a decade" and in short he didn't seem impressed, because it was "nothing novel"._
-
-_As of myself, I think the explicit emphasis of the idea of reducing the space of states for the living organisms and intelligence is suggestive for people who face these ideas for the first time, however it's somewhat obvious for hierarchical systems and even simple "machines", as the gears, the pistons etc. serve as "sub-spaces" which limit and guide the space of possible states._
-
-_As defined in the most ancient basics of "my theory", the higher level patterns are constructed by selected sequences/sets of elements from the lower level which serve as "instructions" (discrete), therefore not all possible combinations are covered. Only a limited space is legal, which respectively reduces the search/combinatorial space of possibilities at the higher level, therefore it has "a reduced space". That's seen in the hierarchical structures in nature: atoms, molecules, cells, tissues etc._
-
-_That "free energy principle" is yet another prove that the general direction towards AGI are getting established in different domains by different researchers_
-
-
-
 
 
