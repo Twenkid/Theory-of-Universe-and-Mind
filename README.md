@@ -227,6 +227,8 @@ https://www.youtube.com/watch?v=klK_L73wLKk
 ![image](https://github.com/Twenkid/Theory-of-Universe-and-Mind/assets/23367640/fca98398-1342-476d-b6db-a6aa454e6677)
 ![image](https://github.com/Twenkid/Theory-of-Universe-and-Mind/assets/23367640/22527520-86e9-4f9f-8afa-ee487718a78a)
 
+* The "red eye" photo is from the final of the competition "Famelab", 2009. The right picture was taken in the spring of 2004, about the time "Universe and Mind 4" was published.
+
 See also this simple generalisations about what embodiment is/could be from an AGI design POV: 
 **"Embodiment is just coordinate spaces, interactivity and modalities - not a mystery", Arnaudov 2011**: https://artificial-mind.blogspot.com/2011/12/embodiment-is-just-coordinate-spaces.html
 The bullet points there are:
