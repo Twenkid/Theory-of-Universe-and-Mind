@@ -1,7 +1,7 @@
-# Theory of Universe and Mind or "The Bulgarian Prophecies / Predictions" 
+# Theory of Universe and Mind or The Bulgarian Prophecies|Predictions
 ## in Artificial General Intelligence (AGI), Digital Universe/The Universe Computer, Philosophy of AI and Mind, A unification of Universe, Mind, Computation, Cybernetical Evolution etc. 2001-2004 etc.
 
-[Version of the document: 17.5.2023]
+[Version of the document: 18.5.2023]
 
 Todor Arnaudov's "Theory of Universe and Mind" (Also "Theory of Mind and Universe", or "Вселена и Разум", "Теория на Разума и Вселената"; a file for the AGI course was titled also "Theory of Hierarchical Universal Simulators of Universes"), a body of work that was originally published between 2001-2004*, is a general abstract "theory of everything", unifying Cybernetical Digital Physics Cosmology and Evolution of the Universe with (Artificial) General Intelligence and Philosophy of Mind, human motivation and drives, behavior,decision making, reinforcement learning, society (...). 
 
