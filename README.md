@@ -22,7 +22,7 @@ Note also that the phenomenon, the process, the discovery etc. of "Match" is one
 
 * As there was nobody to properly review or perhaps understand these works back then, I consider all these later coming matches as a sort of delayed indirect reviews and confirmations, done independently by all these top researchers. 
 
-I am looking for readers, scholars, prospective partners for doing future research and development together to become modern reviewers in order to get this body of work and these numerous matches acknowledged.
+I am looking for readers, scholars, prospective partners for doing future research and development together, who would become modern reviewers of my classic works, in order to get these contributions and numerous matches recognized and acknowledged.
 
 These works were not published in an academic environment, but in the e-zine "The Sacred Computer" and other sites on the Internet, such as the IT/free software community bgit.net (defunct long ago, as well as the original free services: hit.bg and geocities.com - the archives of the latter are still there  though, as well as mirrors). 
 
