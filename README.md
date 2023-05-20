@@ -377,5 +377,6 @@ On the other hand, the electronic processes may involve other kinds of "tag upda
 
 ## Footnotes
 
- * Other titles: also "Theory of Mind and Universe", originally it had many titles due to its universality and diversity: "Man and Thinking Machine" (Човекът и Мислещата машина), "Схващане за всеобщата предопределеност", "Вселена и Разум", "Теория на Разума и Вселената"; a file for the AGI course was titled also "Theory of Hierarchical Universal Simulators of Universes" ... 
+* Other titles: also "Theory of Mind and Universe", originally it had many titles due to its universality and diversity: "Man and Thinking Machine" (Човекът и Мислещата машина), "Схващане за всеобщата предопределеност", "Вселена и Разум", "Теория на Разума и Вселената"; a file for the AGI course was titled also "Theory of Hierarchical Universal Simulators of Universes" ... 
+* A <a href="https://www.facebook.com/groups/115986208422069/posts/6352495128104448/?__cft__[0]=AZWEOb2eBdRpYytcEAXurnYoVpa7D7N293LvAgWD-8ecX5ud6Yh_bawGJsvSeaj23dUroj5W0y1UXXUREv94vwSiPxzSqBaQxkcAzLNtqTLBb_pBfGjb-Rk-07fVvFcfczjev1V3DyoOPTUvzg09Ce2X&__tn__=%2CO%2CP-R">13-years anniversiry post</a> about the AGI courses in 2010,2011 etc. and links and a few excerpts from works and references in the Facebook group of the AGI courses, which AFAIK was also the first group, dedicated to AGGI in FB. 
 
