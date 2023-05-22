@@ -9,7 +9,7 @@ This theory is yet a little known predecessor of many other analogical, related 
 
 I discovered Joscha Bach on Youtube a few months ago in 2023 - it seems his descriptions about Universe and Mind are virtually the same as mine given 20+ years earlier, with so far one distinction, as far as I interpret it- his view is more inclined towards the so called "illusionism"*, "exists, not exist", while I'm more into the "realism" in this dichotomy, which I also discovered explicitly given in late May 2023. As exemplified by the participants in the video discussion where I found it, the division is sometimes very fine, maybe related to the borderline between the older philsophical classification of objective idealism vs subjective idealism. I guess we all are "informationalist", "computationalist", "universalist" (a categorization mentioned by the host Tim Scarfe to Karl Friston in his "3.0" appearance in the Youtube channel "MLST"), I think we're also "cyberneticians"*.
 
-In mid of May 2023, thanks to Michael Levin's videos, I discovered also the work of Mark Solms to which I also share some ideas, as TOUM is also about consciousness, causality (which is a core conception in the framework describing Universe and Mind as built by Causality-Control Units at all possible levels and scales) , experience and dreams and their connection with the Universe as Mind (see e.g. "Universe and Mind 4", 2004, the chapter about the "Repetition of events in different levels of the Universe computer" etc.), although the word "consciousness" itself is used sparingly after my version of the definition of the "easy and hard problem" in the 2001 work "Man and Thinking Machine: Analysis of the possibility a Thinking machine to be created and some of the disadvantages of humans and organic matter compared to it". My notion of "Mind" (Разум, in English it is also Reason) included, encompassed, all mental, cognitive, emotional, intellectual capacities, with the basic emotions being the first "rewards" or "set points" in the terminology of the other cyberneticians. 
+In mid of May 2023, thanks to Michael Levin's videos, I discovered also the work of Mark Solms, my first impressions are that I also share some ideas (see below about the "Frontiers..." article); in general TOUM is also about consciousness, causality (which is a core conception in the framework describing Universe and Mind as built by Causality-Control Units at all possible levels and scales), experience and dreams and their connection with the Universe as Mind (see e.g. "Universe and Mind 4", 2004, the chapter about the "Origin of the repetition of events in different levels of the Universe computer and ... " etc.), although the word "consciousness" itself is used sparingly after my version of the definition of the "easy and hard problem" in the 2001 work "Man and Thinking Machine: Analysis of the possibility a Thinking machine to be created and some of the disadvantages of humans and organic matter compared to it". My notion of "Mind" (Разум, in English it is also Reason) included, encompassed, all mental, cognitive, emotional, intellectual capacities, with the basic emotions being the first "rewards" or "set points" in the terminology of the other cyberneticians. 
 
 Due to the predictions and the large number of matches of future works to the claims, ideas, hypotheses and the reasoning to the works from "Theory of Universe and Mind" (TOUM) and a more recent related works, I recently called them also "The Bulgarian Prophecies" or "The Bulgarian Predictions" in AGI, Philosophy of AI and Mind, Digital physics etc., together with a strategical essay/proposal from 2003 for the development of AGI via the creation of a super interdisciplinary R&D institute and other publications. 
 
@@ -378,21 +378,21 @@ On the other hand, the electronic processes may involve other kinds of "tag upda
 
 (...)
 
-
 ## Footnotes
 
 * Other titles: also "Theory of Mind and Universe", originally it had many titles due to its universality and diversity: "Man and Thinking Machine" (Човекът и Мислещата машина), "Схващане за всеобщата предопределеност", "Вселена и Разум", "Теория на Разума и Вселената"; a file for the AGI course was titled also "Theory of Hierarchical Universal Simulators of Universes" ... 
 * A <a href="https://www.facebook.com/groups/115986208422069/posts/6352495128104448/?__cft__[0]=AZWEOb2eBdRpYytcEAXurnYoVpa7D7N293LvAgWD-8ecX5ud6Yh_bawGJsvSeaj23dUroj5W0y1UXXUREv94vwSiPxzSqBaQxkcAzLNtqTLBb_pBfGjb-Rk-07fVvFcfczjev1V3DyoOPTUvzg09Ce2X&__tn__=%2CO%2CP-R">13-years anniversiry post</a> about the AGI courses in 2010,2011 etc. and links and a few excerpts from works and references in the Facebook group of the AGI courses, which AFAIK was also the first group, dedicated to AGGI in FB.
+* A comparison to Mark Solms points. I need to elaborate my study of them in order to be more specific. So far I think I share his "Realist" view, however I don't share his praising of Freud. 
+
 * These are not patents, no corporations involved which have interest to prove that and the ideas/theories are of course rather rediscovered (unlike in that other case where that was not clear), but this is another "Bulgarian match", an obvious analogy with the story related to another Bulgaria-related Computer scientist: John Atanasoff, known as "the father of the computer": https://en.wikipedia.org/wiki/John_Vincent_Atanasoff
 * Regarding the "cyberneticians" - in early 2011 I participated in a TV talk show on the Bulgarian National TV, where the editors appropriately "badged" me on screen as a "cybernetician". 
-  ![image](https://github.com/Twenkid/Theory-of-Universe-and-Mind/assets/23367640/8407c64f-38b3-4e59-98a4-19620d9489e5)
+
+ ![image](https://github.com/Twenkid/Theory-of-Universe-and-Mind/assets/23367640/8407c64f-38b3-4e59-98a4-19620d9489e5)
+  
 The term "AGI" (Универсален изкуствен разум in Bulgaria, as I coined in the world's first university course) was new and strange for them, even to other AI experts, but they correctly recognized that it was rather connected with the Cybernetics than to what was more commonly seen as "AI" at the time. I also believe that the "earlier fathers" of the AGI movement in 20th century are rather Norbert Wiener and Claude Shannon (and Alan Turing of course), than the 1956 conference "AI" fathers, not disounting their "fathership" and pioneer work. In fact there's also even earlier, little known Russian/Soviet cybernetician, Peter Anohin, with his concept of feedback, coined in 1935: https://en.wikipedia.org/wiki/Theory_of_functional_systems   https://ru.wikipedia.org/wiki/%D0%90%D0%BD%D0%BE%D1%85%D0%B8%D0%BD,_%D0%9F%D1%91%D1%82%D1%80_%D0%9A%D1%83%D0%B7%D1%8C%D0%BC%D0%B8%D1%87
 We shouldn't omit another great Soviet cybernetician Valentin Turchin and his 1970 book "Phenomenon of Science" which is probably the first Cybernetical theory of the Evolution of Universe and Mind: https://en.wikipedia.org/wiki/Valentin_Turchin 
 The book: http://pcp.vub.ac.be/POSBOOK.html
  
-(I was not inspired by it though, as I discovered it after TOUM).
-
- 
-
+(I was not inspired by it though, as I discovered it after TOUM)
 
 
