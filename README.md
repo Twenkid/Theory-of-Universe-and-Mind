@@ -50,7 +50,7 @@ At the time I was a teenager: a schoolboy and in the end of that period: a fresh
 
 I've been somewhat in the academia and an affiliated researcher as a student in Plovdiv and in Wolverhampton, UK (e.g. where I developed the "most intelligent dictionary" <a href="https://github.com/Twenkid/Smarty">Smarty</a> back in 2007) and when I taught the AGI courses, but currently I am not affiliated, besides in my own virtual interdisciplinary research institute "The Sacred Computer", where I am the <a href="https://github.com/Twenkid/Vsy-Jack-Of-All-Trades-AGI-Bulgarian-Internet-Archive-And-Search-Engine">Jack of All Trades</a>, as is also the name of a project for an AGI infrastructure and experimentation for which I am looking for partners. _"The Sacred Computer"_ was created and declared in the year 2000 as an e-zine; it has several other attached aliases and chapters such as "Society Mind" (or "Reason" - Дружество Разум, a "chapter" in the e-zine), "Artificial Mind" (in Bulgarian it is also Reason - "Изкуствен разум" - a blog since 2007), "Twenkid Research". A page with a short "normal" bio: http://research.twenkid.com/
 
-## Analogical, isomorphic, similar or closely related to the "Bulgarian Prophecies", serving as delayed reviews and "confirmation", are for example (detailed lists and discussions to be completed):
+## Analogical, isomorphic, similar or closely related to the TOUM, serving as delayed reviews and confirmations, are for example (detailed lists, comparisons, parallel text and discussions to be extended and completed, see some below):
 
 * Jeff Hawkins' "On intelligence"/Memory-prediction framework
 * Karl Friston's "Free Energy Principle"/"Active Inference"<br>
