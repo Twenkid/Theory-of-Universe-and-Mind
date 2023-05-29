@@ -11,7 +11,7 @@ This theory is yet a little known predecessor of many other analogical, related 
 
 ![image](https://github.com/Twenkid/Theory-of-Universe-and-Mind/assets/23367640/56b471b5-1a82-4a0d-87ce-418cf880e84c)
 
-_The front page of the slides from the lecture about TOUA from the world's first university course in Artificial General Intelligence at The University of Plovdiv: 2010, 2011. The picture on the left is from the final performance at Famelab 2009, and on the right is the author in the Spring of 2004, about the time of publishing "Universe and Mind 4", when Todor is a freshman in Computer Science at the University of Plovdiv "Paisii Hilendarski":_ [http://research.twenkid.com/agi/](https://research.twenkid.com/agi/2010/en/)
+_The front page of the slides from the lecture about TOUA from the world's first university course in Artificial General Intelligence at The University of Plovdiv: 2010, 2011. The picture on the left is from the final performance at Famelab 2009, and on the right is the author in the Spring of 2004, about the time of the publishing of the mature work from the theory: "Universe and Mind 4", when Todor is a freshman in Computer Science at the University of Plovdiv "Paisii Hilendarski":_ [http://research.twenkid.com/agi/](https://research.twenkid.com/agi/2010/en/)
 
 ![image](https://github.com/Twenkid/Theory-of-Universe-and-Mind/assets/23367640/406c54ea-90f9-4a0b-b4c4-0a4a568eac35)<br>
 _Todor with some of his best students after the course in 2010_
