@@ -109,6 +109,7 @@ Materials for the world's first university course in AGI, 2010-2011
 * https://research.twenkid.com/agi/2010/en/Todor_Arnaudov_Theory_of_Universe_and_Mind_4.pdf
 * https://research.twenkid.com/agi/2010/en/Whats_wrong_with_NLP_links.htm
 * https://research.twenkid.com/agi/2010/en/General_Intelligence_Principles_Caffe_Sci_2009_MTR.pdf
+* https://research.twenkid.com/agi/2010/Razum_8_cut.pdf  (The Principles of General Intelligence and Universe - The Bulgarian original slides, longer than the English version, of the Caffe Scientific lecture in Technical University Sofia in 2009)
 
 A translation of one 2004 work:
 http://artificial-mind.blogspot.com/2010/01/semantic-analysis-of-sentence.html
