@@ -15,6 +15,7 @@ _The front page of the slides from the lecture about TOUA from the world's first
 
 ![image](https://github.com/Twenkid/Theory-of-Universe-and-Mind/assets/23367640/406c54ea-90f9-4a0b-b4c4-0a4a568eac35)<br>
 _Todor with some of his best students after the course in 2010_
+_See the syllabus of the course, info and a video: http://artificial-mind.blogspot.com/2010/04/universal-artificial-intelligence.html_
 
 For example I discovered Karl Friston's "Free energy principle/Active Inference" theory in late 2018 from an interview for <a href="https://www.wired.com/story/karl-friston-free-energy-principle-artificial-intelligence/?utm_source=facebook&utm_cnbc=social&utm_campaign=psocial_cnbc&utm_brand=wired&utm_social-type=owned&__source=facebook%7Cmain">Wired</a>. Friston's theory is analogical to TOUM in the general principles of maximization of the prediction (minimization of the error of the preciction) etc. I've discussed my first impressions and a work of his follower Eray Yozkural on his notion of <a href="http://artificial-mind.blogspot.com/2018/12/ultimate-ai-free-energy-principle-and.html">Ultimate AI</a> after my first impressions. 
 
