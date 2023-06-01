@@ -163,6 +163,8 @@ https://translate.google.com/translate?sl=auto&tl=en&u=https://artificial-mind.b
 https://www.oocities.org/todprog/ese/proekt.htm
 
 *In oocities.org - geocities archive or archive.org: change "www.oocities.org" to "www.geocities.com" and check in Archive.org
+A Google translate-friendly mirror of links to classic publications is at: http://eim.twenkid.com/old/razum 
+
 <li><a href="http://www.oocities.org/eimworld/4/30/30.htm" target="new">Разговори за Изкуствен разум между Тош и тайнствения тип Астер Трафиков "Ловеца", известен още като... Галина "ТХ" Славина</a> (бр.30, септ. 2004)  (in archive.org)
 <li><a href="http://www.oocities.org/eimworld/4/29/pred4.htm" target="new">
 Вселена и разум 4 ("Схващане за всеобщата предопределеност 4")</a> - произход на повторенията на събития в различни равнища на Вселенския сметач и на нецеливите, за преживяващия ги разум, съвпадения с ниска вероятност; мисли за мисленето, анализ на смисъла на изречение; за реда и безредието; за сънища; за енергия; за поезия; виж сам.  (бр.29, апр. 2004)
