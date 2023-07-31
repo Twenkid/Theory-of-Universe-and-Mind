@@ -1,7 +1,9 @@
-# Theory of Universe and Mind <br> or The Bulgarian Prophecies | Predictions
+# Theory of Universe and Mind <br>
+### a.k.a. 
+## (The Bulgarian) | (Todor's) Prophecies | Predictions
 ## in Artificial General Intelligence (AGI), Digital Universe/The Universe Computer, Philosophy of AI and Mind, A unification of Universe, Mind, Computation, Cybernetical Evolution etc. 2001-2004 etc.
 
-[Version of the document: 18.7.2023]
+[Version of the document: 1.8.2023: + Andy Clarke, Max Ramstead links]
 
 __Todor Arnaudov's *"Theory of Universe and Mind"* - a body of work, originally published between 2001-2004*, when the author was still a teenager__ without any peers or a supervisor - is a general abstract cognitive "theory of everything", unifying Cybernetical Digital Physics Cosmology and Evolution of the Universe with (Artificial) General Intelligence and Philosophy of Mind, defining the so called Causality-Control Units, hierarchical and compositional "Universal simulators of virtual universes" with their sub-universes, universes at different levels, mother-and-child universes/machines etc. as universal building blocks for agency, computation and cognition at all levels of scale, ranges, precision etc.; computation, human/agent's (causality-control units') motivation and drives, behavior, decision making, reinforcement learning, society, reality, imagination, creativity (...); one of the main principles of the development of the Universe and Mind (causality-control units), respectively of the general intelligence, is the hierarchical prediction-causation of the future, based on the past, in ever increasing ranges and precisions, reliability, modalities etc. General intelligence/Mind is a system performing multi-scale, multi-range, multi-precision, multi-modality, multi-domain ... hierarchical prediction-causation of the future, implying the creation and operaton of universal simulators of virtual universes.
 
@@ -64,8 +66,12 @@ I've been somewhat in the academia and an affiliated researcher as a student in 
 * Jeff Hawkins' "On intelligence"/Memory-prediction framework (founder of Palm, Redwood Center for Theoretical Neuroscience and Numenta)
 * Karl Friston's "Free Energy Principle"/"Active Inference" (University College London, Cambridge, Fellow of the Royal Society of London)<br>
 "KARL FRISTON - INTELLIGENCE 3.0", Machine Learning Street Talk, 11.3.2023, https://youtu.be/V_VXOdf1NMw  
-Active Inference: The Free Energy Principle in Mind, Brain, and Behavior 
+- Active Inference: The Free Energy Principle in Mind, Brain, and Behavior 
 By Thomas Parr, Giovanni Pezzulo, Karl J. Friston, 2022: https://direct.mit.edu/books/oa-monograph/5299/Active-InferenceThe-Free-Energy-Principle-in-Mind 
+- "Whatever next? Predictive brains, situated agents, and the future of cognitive science",
+Published online by Cambridge University Press: 10 May 2013, Andy Clark: https://www.cambridge.org/core/journals/behavioral-and-brain-sciences/article/whatever-next-predictive-brains-situated-agents-and-the-future-of-cognitive-science/33542C736E17E3D1D44E8D03BE5F4CD9
+- "MAXWELL RAMSTEAD - The Physics of Survival" @ MLST, https://www.youtube.com/watch?v=8qb28P7ksyE, 16.7.2023
+
 * Joscha Bach's discussions on Universe and Mind in podcasts up to now, 2022-2023 - in many aspects, except some aspects and details about circular word plays about "existence" and "real"-ness, are almost identical to the ones and the reasoning expressed bellow, 20 years earlier. More elaborate comparisons and discussion in the book "The Prophets of the Thinking Machines: Artificial General Intelligence and Transhumanism: History, Theory and Pioneers" and in other articles. (MIT & Harvard, Humboldt University, Intel)
 * Michael Levin's "Scale-Free Cognition" framework,  “Technological Approach to Mind Everywhere (TAME): an experimentally-
 grounded framework for understanding diverse bodies and minds" (2022), Cognitive lightcone" ... See also #1. (Tufts University)
