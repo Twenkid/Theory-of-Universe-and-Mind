@@ -142,7 +142,7 @@ http://artificial-mind.blogspot.com/2010/01/semantic-analysis-of-sentence.html
 
 * Notes and graphs, recreated from the notes would be published as well in the book "The prophecies of the Thinking Machines: ..." etc.
 
-E.g. notes from 28.12.2022 about the segmentation of the world in "pieces of knowledge" (късове знание):
+E.g. notes from 28.12.2002 about the segmentation of the world in "pieces of knowledge" (късове знание):
 
 ![image](https://github.com/Twenkid/Theory-of-Universe-and-Mind/assets/23367640/490aa92b-e41e-42bb-bba3-89fbe13e07b1)
 ![image](https://github.com/Twenkid/Theory-of-Universe-and-Mind/assets/23367640/9284cf9c-c2a0-424d-b908-e768cedd1347)
