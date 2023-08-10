@@ -1,5 +1,5 @@
-# Matches betwen Theory of Universe and Mind and other later theories and works
-## Essential principles, insights, reasoning from TOUM and comparison to analogical concepts from other theories
+# Matches betwen Theory of Universe and Mind - definitions, reasoning and predictions -and other later theories and works
+## Essential principles, insights, reasoning from TOUM and comparison to analogical concepts from other theories, strategies and what actually happened and happens in the reality
 
 __A work in progress, just a beginning: see also the main readme and other articles__
 
@@ -32,11 +32,58 @@ After that lecture I gave an interview for the magazine called "Obekty" titled:
 <a href="http://artificial-mind.blogspot.com/2010/01/i-will-create-thinking-machine-that.html">"I will Create a Thinking Machine that will Self-Improve (an Interview with Todor): Dreamers and adventurers make the great discoveries. The scepticists' job is to deny their visions, and eventually not to believe their eyes"</a>
 where I also mention these principles as the way AGI will be created and I made a prediction that there will be significant breakthroughs to basic AGI/general models in less than 10 years.
 
-In 2003 in a strategic essay for a competition called ... (continue tommorow...)
+Todor Arnaudov, 2009:
+"<b>- If you believe that it's possible for us to build an AGI, why we didn't manage to do it yet? What are the obstacles?</b>
 
-...
+I believe that the biggest obstacle today is time. There are different forecasts, 10-20 years to enhance and specify current theoretical models before they actually run, or before computers get fast and powerful enough. I am an optimist that we can go there in less than 10 years, at least to basic models, and I'm sure that once we understand how to make it, the available computing power would be enough. One of the big obstacles in the past maybe was the research direction – top-down instead of bottom-up, but this was inevitable due to the limited computing power. For example, Natural Language Processing is about language modeling; language is a reduced end result of so many different and complex cognitive processes. NLP is starting from the reduced end result, and is aiming to get back to the cognitive processes. However, the text, the output of language, does not contain all the information that the thought that created the text contains.
 
-### Concrete matches from the content of the video
+On the other hand, many Strong AI researchers now are sharing the position that a “Seed AI” should be designed, that is a system that processes the most basic sensory inputs – vision, audition etc. Seed AI is supposed to build and rebuild ever more complex internal representations, models of the world (actually, models of its perceptions, feelings and its own desires and needs). Eventually, these models should evolve to models of its own language, or models of human's natural language. Another shared principle is that intelligence is the ability to predict future perceptions, based on the experience (you have probably heard of Bayesian Inference and Hidden Markov Models), and that intelligence development is improvement of the scope and precision of its predictions.
+
+Also, in order the effect of evolution and self-improvement to be created, and to avoid intractable combinatorial explosion, the predictions should be hierarchical. The predictions in an upper level are based on sequences of predictions (models) from the lower level. Similar structure is seen in living organisms – atoms, molecules, cellular organelles, cells, tissues, organs, systems, organism. The evolution and intelligence are testing which elements are working (predicting) correctly. Elements that appeared to work/to predict are fixed, they are kept in the genotype/memory, and are then used as building blocks of more complex models at a higher level of the hierarchy.
+
+(...)
+======================
+
+Note that there is no explicit border and division between the physical particles and the living organisms.
+
+* In 2003 in a strategic essay for a competition called:
+### <b>"How would I invest a million with the greatest benefit for the development of the country?" </b>
+June 2003
+Original: https://www.oocities.org/todprog/ese/proekt.htm 
+Machine translated, Google translate, 10.8.2023
+
+In my opinion, a powerful future source of revenue, for which 1 million euros is an excellent start, because the key to making it happen is in the human brain, is the Thinking Machine (MM).
+
+     A machine equal to or surpassing human intelligence would become an unprecedented engine of scientific research and culture in the country that first managed to create it.
+     
+      An expressive example of the potential of MM is the huge information flow through its memory, which can be managed down to binary. Man is capable, for a second, of outputting conscious information that is described by several tens of bits. This applies to speaking, singing, typing, moving the mouse pointer, drawing, playing a musical instrument. In the same second, an ordinary personal computer transfers, through its central processing unit alone, a billion times the information over which the machine has complete control. If such a powerful "stream of information" is controlled by reason, the "calculating hardware" will turn into an amazingly perceptive student, who would quickly become a prolific artist in all arts and a tireless scholar. Connected to robotic bodies, in the design of which, in fact, she could also participate, MM will be able to perform physical activities, to give a "friendly arm" to man and industry in the literal sense.
+      
+        Since the MM's personality would be recorded as pure information - on computer media that could be overwritten and stored theoretically forever, unlike the human carrier of the personality - the brain, a machine trained to some degree could be reproduced simply by switching on a copy of her personality in a new "body" where she can begin to develop independently and learn only what is necessary for the new activity. All the sensible experience possessed by any previous MM will be readily transferable to another who will have the personality of her "mother" at birth.
+        
+      Thanks to MM's mind being able to have a direct high-speed connection to a computing machine - processors from MM's own body, or another machine to which MM is electronically connected as a user - computer design, modeling and, generally speaking, creativity, handed to the Machine, will be done much faster than
+man does. All input and output devices will be part of the "imagination" of the MM, therefore much faster than the currently mandatory moving, equivalent to inert and slow human input devices.
+
+      The machine will be able to be a programmer, of course. If given the opportunity to explore her device in detail, once created, she could assist in improving it to the limits provided by the particular "hardware" on which her computer "soul" universe resides. MM can go even further - the "soul" could refine the "body" - the "electronic flesh", until physical limits are reached. In this
+role, the Machine will work as an electronic engineer looking for new circuit solutions; a physicist perfecting current technologies for the manufacture of integrated circuits and nanotechnology, or a discoverer of as-yet-unknown ways of building machines."
+
+(...)
+
+I believe that it is only a matter of years until we find the right "parts" and build a "machine" from them to overcome the "Wall" and meet the Machine.
+
+**STRATEGY**
+
+According to my strategy, a scientific-research Institute would be founded, which would unite computer scientists, engineers, art critics, linguists, philosophers, psychologists, neuroscientists; multilingual translators; creators in various arts - writers and poets, composers and musicians; artists, photographers and film directors. The members of the Institute will be, with advantage, having knowledge and skills in several fields, both scientists and creators, because the goal of the searches will be to discover the commonality between all manifestations of reason, between the sciences and the arts. The form of thought is different in different manifestations of thinking, but its essence, the underlying mechanisms, are the same, and only the data with which it works - word, sound, images, sequences of images, abstract concepts and etc.
+The institute will also play the role of a "wing" that finds, "protects and wings" gifted people to support their development and, if they wish, to enjoy their talent in research.
+
+The Institute will have a program house, in which "incidentally" will be produced "smart" application software using the developments of the Institute on the way to IR: programs for automated design, multimedia, word processing, translators, games, etc. application programs.
+The goal of the Institute will be the programmatic creation of a MM [Thinking Machine], possessing universal capabilities for exchanging information with other computing machines, in particular robotic modules. The robots created by the robotics department will be, in addition to a way to use IR for physical activities, a means of attracting public attention and advertising for the Institute.
+
+Once a Thinking Machine is realized, it will be able to be used in all creative spheres of human activity and in the work of the Institute itself.
+I suppose that after the Discovery and the creation of the MM, running on standard computers, the Institute will be "armed" and will be able to set aside a design department to develop new complete computing systems specially adapted for the operation of the Machine.
+
+(...)
+
+### Concrete matches from the content of that very video onm Free Energy Principle
 
 * For example the concept in TOUM which seems analogical to FEP's Markov blanket is the Causality-Control Unit (Управляващи устройства, подвселени, въображаеми вселени, подмашини и др.) - also virtual universe, machine, subuniverse, universes at different levels. 
 
