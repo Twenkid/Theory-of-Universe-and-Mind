@@ -3,7 +3,7 @@
 Taken in October 2009
 Published in Obekty, November-December 2009
 
-### Todor Arnaudov: I will Create a Thinking Machine that will Self-Complexifies* (an Interview with Todor): Dreamers and adventurers make the great discoveries. The scepticists' job is to deny their visions, and eventually not to believe their eyes
+### Todor Arnaudov: I will Create a Thinking Machine that will Self-Complexify* (an Interview with Todor): Dreamers and adventurers make the great discoveries. The scepticists' job is to deny their visions, and eventually not to believe their eyes
 
 (the Bulgarian title's editor's choice was to "Self-Complexify", back in the days I translated it to "Self-improve", but I talked about self-complexification as well, the collection of complexity )
 
