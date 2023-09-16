@@ -8,7 +8,7 @@ __A work in progress, just a beginning: see also the main readme and other artic
 
 
 **8.8.2023: Todor:** A good talk and yet another proof that FEP (Free Energy Principle) is another wording of some of the core discoveries of the Theory of Universe and Mind by Todor Arnaudov, then a teenager, originally 2001-2004, first publications in Bulgarian in the e-zine "The Sacred Computer".
-It was taught during the world's first University courses in Artificial General Intelligence, offered by the same author in 2010 and 2011 at Plovdiv University, Bulgaria, and in front on stage in events for general audience twice in 2009, followed by an interview in a then maybe the best and most popular Bulgarian popular science magazine "Obekty". In 2003 some of the ideas, about the general principles for all kinds of modalities, were also presented for general audience in a strategic essay on a competition. See more details below the concrete matches from this specific talk.
+It was taught during the world's first University courses in Artificial General Intelligence, offered by the same author in 2010 and 2011 at Plovdiv University, Bulgaria, and presented live for general audience twice in 2009, followed by an interview in a then maybe the best and most popular Bulgarian popular science magazine "Obekty". In 2003 some of the ideas, about the general principles for all kinds of modalities, were also presented for general audience in a strategic essay on a competition "How will I invest 1 million with the biggest benefit for my country". See more details below and in the references, and the concrete matches from this specific talk.
 
 ### Concrete matches from the content of that very video on the Free Energy Principle
 
