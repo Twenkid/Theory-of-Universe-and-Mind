@@ -1,4 +1,4 @@
-# Specific Predictions from the Theory of Universe and Mind: both the classic 2001-2004 and the later ones
+# Specific Predictions from the Theory of Universe and Mind: both the classic 2001-2004 and later works
 ## Todor's Predictions / "Prophecies"
 
 
