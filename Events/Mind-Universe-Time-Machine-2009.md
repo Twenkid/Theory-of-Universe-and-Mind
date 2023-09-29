@@ -1,5 +1,7 @@
 _In About Tosh, AGI, Artificial General Intelligence, Artificial Intelligence, Famelab, Изкуствен интелект, Изкуствен разум, Събития by Todor "Tosh" Arnaudov - Twenkid // Wednesday, September 23, 2009 // Leave a Comment_
 
+https://artificial-mind.blogspot.com/2009/09/event-with-me-in-sofia.html 
+
 ## Как работи разумът? Йерархичен самоорганизиращ се предсказател на бъдещето - научно представление | AGI event of mine in Sofia
 
 ![image](https://github.com/Twenkid/Theory-of-Universe-and-Mind/assets/23367640/681d50f2-2840-4d3c-9fc5-6426ed88b78a)
