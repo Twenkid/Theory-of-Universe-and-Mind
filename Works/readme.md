@@ -4,5 +4,4 @@
 
 See the links to original publications in the main file.
 
-
-
+Some works are machine translated. "Holy Counter" is the "Sacred Computer".
