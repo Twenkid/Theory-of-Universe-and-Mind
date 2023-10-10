@@ -3,7 +3,9 @@
 ### Classical and more recent
 ### In English and Bulgarian
 
-See the links to original publications in the main file.
+See the links to original publications in the main file:
+
+Also: http://research.twenkid.com/     |      http://research.twenkid.com/agi/
 
 Some works are machine translated. "Holy Counter" is the "Sacred Computer".
 
