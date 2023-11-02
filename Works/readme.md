@@ -3,7 +3,7 @@
 ### Classical and more recent
 ### In English and Bulgarian
 
-See the links to original publications in the main file:
+See the links to original publications in the main file: https://github.com/Twenkid/Theory-of-Universe-and-Mind/blob/main/README.md
 
 Also: http://research.twenkid.com/     |      http://research.twenkid.com/agi/
 
