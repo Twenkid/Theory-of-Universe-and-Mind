@@ -1,7 +1,7 @@
 # Theory of Universe and Mind <br>
 #### a.k.a. 
 ### Todor's "Prophecies" | Todor's Predictions | The Bulgarian Predictions
-## in Artificial General Intelligence (AGI), Digital Universe/The Universe Computer, Philosophy of AI and Mind, A unification of Universe, Mind, Computation, Cybernetical Evolution etc. 2001-2004 etc.
+## in Artificial General Intelligence (AGI), Digital Universe/The Universe Computer, Philosophy of AI and Mind, Speculative Cognitive Science, A unification of Universe, Mind, Computation, Cybernetical Evolution etc. 2001-2004 etc.
 
 [Version of the document: 14.11.2023: minor edits in the intro; 1.8.2023: + Andy Clark, Max Ramstead links; See the footnotes for "*" sign]
 
