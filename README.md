@@ -197,6 +197,7 @@ A Google translate-friendly mirror of links to classic publications is at: http:
 <li><a href="http://www.oocities.org/eimworld/eim20/emil.htm">Емил и Кибертрон</a> (бр.20, февруари 2003)
 <li><a href="http://www.oocities.org/eimworld/eim19/istinata.htm">Истината</a> - разказ/повест (бр.19, декември 2002) 
 <!-- <li> <a href="http://www.oocities.org/eimworld/eim19/istinata.htm">Истината</a> - разказ/повест (бр.19, декември 2002) -->
+<li><a href="http://www.oocities.org/eimworld/eim18/predopredelenost2.htm">Писма между 18-годишния Тодор Арнаудов и /43-годишния/ философа Ангел Грънчаров от август до септември 2002 г.</a> - Вселената сметач и мн.др. Бр.18, октомври/2002<br>
 <li><a href="http://www.oocities.org/eimworld/eim18/predopredelenost2.htm">Схващане за всеобщата предопределеност 2</a> - Вселената сметач и мн.др. Бр.18, октомври/2002<br>
 <li><a href="http://www.oocities.org/eimworld/eim18/predopredelenost2.htm">Следващото 
 еволюционно стъпало 2</a> (като част от "Схващане за всеобщата предопределеност 2", бр.18, октомври/2002)
