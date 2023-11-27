@@ -3,7 +3,7 @@
 ### Todor's "Prophecies" | Todor's Predictions | The Bulgarian Predictions
 ## in Artificial General Intelligence (AGI), Digital Universe/The Universe Computer, Philosophy of AI and Mind, Speculative Cognitive Science, A unification of Universe, Mind, Computation, Cybernetical Evolution etc. 2001-2004 etc.
 
-[Version of the document: 14.11.2023: minor edits in the intro; 1.8.2023: + Andy Clark, Max Ramstead links; See the footnotes for "*" sign]
+[Version of the document: 27.11.2023: minor edits in the intro/pictures etc.; 1.8.2023: + Andy Clark, Max Ramstead links; See the footnotes for "*" sign]
 
 __Todor Arnaudov's *"Theory of Universe and Mind"* - a body of work, originally published between 2001-2004*, when the author was still a teenager__ without any peers or a supervisor - is a general abstract cognitive "theory of everything", unifying Cybernetical Digital Physics Cosmology and Evolution of the Universe with (Artificial) General Intelligence and Philosophy of Mind, defining the so called Causality-Control Units, hierarchical and compositional "Universal simulators of virtual universes" with their sub-universes, universes at different levels, mother-and-child universes/machines etc. as universal building blocks for agency, computation and cognition at all levels of scale, ranges, precision etc.; computation, human/agent's (causality-control units') motivation and drives, behavior, decision making, reinforcement learning, society, reality, imagination, creativity (...); one of the main principles of the development of the Universe and Mind (causality-control units), respectively of the general intelligence, is the hierarchical prediction-causation of the future, based on the past, in ever increasing ranges and precisions, reliability, modalities etc. General intelligence/Mind is a system performing multi-scale, multi-range, multi-precision, multi-modality, multi-domain ... hierarchical prediction-causation of the future, implying the creation and operaton of universal simulators of virtual universes.
 
@@ -20,7 +20,22 @@ _The front page of the slides from the lecture about TOUA from the world's first
 ![image](https://github.com/Twenkid/Theory-of-Universe-and-Mind/assets/23367640/406c54ea-90f9-4a0b-b4c4-0a4a568eac35)<br>
 _Todor with some of his best students after the course in 2010_<br>_See the syllabus of the course, info, a few reviews and a video: http://artificial-mind.blogspot.com/2010/04/universal-artificial-intelligence.html_
 
-### <a href="http://github.com/Twenkid">Todor is looking for partners, see the Github intro and the book cited there.</a>
+<!-- ![image](https://github.com/Twenkid/Theory-of-Universe-and-Mind/assets/23367640/b04d0625-d64d-45b1-9cf1-35094f0078b3) -->
+<img src="https://github.com/Twenkid/Theory-of-Universe-and-Mind/assets/23367640/b04d0625-d64d-45b1-9cf1-35094f0078b3" width=33%>
+<!-- ![image](https://github.com/Twenkid/Theory-of-Universe-and-Mind/assets/23367640/b8b0e7f8-955b-4081-af9a-197bea525081) -->
+<img src="https://github.com/Twenkid/Theory-of-Universe-and-Mind/assets/23367640/b8b0e7f8-955b-4081-af9a-197bea525081" width=33%>
+<!-- ![image](https://github.com/Twenkid/Theory-of-Universe-and-Mind/assets/23367640/b69d2011-7823-4838-9f09-6aaf32f9b271) -->
+<img src="https://github.com/Twenkid/Theory-of-Universe-and-Mind/assets/23367640/b69d2011-7823-4838-9f09-6aaf32f9b271" width=33%>
+
+_Todor is flexing muscle after a workout on the gymnastics rings, displaying his athletic and "forever young*" self - 9-th of November 2023_
+<!-- ![image](https://github.com/Twenkid/Theory-of-Universe-and-Mind/assets/23367640/ceabfa6e-cdc3-440a-8ec2-1797d7b921a7) -->
+<!-- <img src="https://github.com/Twenkid/Theory-of-Universe-and-Mind/assets/23367640/ceabfa6e-cdc3-440a-8ec2-1797d7b921a7" width=32%> -->
+
+
+
+### <a href="http://github.com/Twenkid">Todor is looking for partners, see the Github intro and the book cited there</a>
+
+## Notes on matches
 
 For example I discovered Karl Friston's "Free energy principle/Active Inference" theory in late 2018 from an interview for <a href="https://www.wired.com/story/karl-friston-free-energy-principle-artificial-intelligence/?utm_source=facebook&utm_cnbc=social&utm_campaign=psocial_cnbc&utm_brand=wired&utm_social-type=owned&__source=facebook%7Cmain">Wired</a>. Friston's theory is analogical to TOUM in the general principles of maximization of the prediction (minimization of the error of the preciction) etc. I've discussed my first impressions and a work of his follower Eray Yozkural on his notion of <a href="http://artificial-mind.blogspot.com/2018/12/ultimate-ai-free-energy-principle-and.html">Ultimate AI</a> after my first impressions. 
 
@@ -438,3 +453,5 @@ The book: http://pcp.vub.ac.be/POSBOOK.html
 * Ogi Ogas: „Grand Unified Theory of Consciousness - Dr. Ogi Ogas, Harvard University":  https://www.youtube.com/watch?v=TzInnkUOAa4 
 
 * The newer theories and works from the Academia are usually more technically elaborate, with references to later empirical research etc., but that's expected and some had 20 years time to do it, while TOUM was created by a teenager in his spare time after school or during vacations.
+
+*  Todor has its own program/research of his regimen and diet. It was running before being aware of Bryan Johnson's program "the Blueprint", it happened to match in some details, in others it is very different. There's not much published information about Todor's "Bulgarian Forever Young program" yet (as of 26.11.2023). A few notes were mentioned here: "Genius by Verses AI - Intelligence as a Service for Multiagent Systems with Free Energy Principle/Active inference framework and the Bulgarian Blueprint announcement": https://artificial-mind.blogspot.com/2023/11/genius-by-verses-ai-intelligence-as.html
