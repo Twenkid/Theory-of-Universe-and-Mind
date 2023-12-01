@@ -64,7 +64,7 @@ Man also imitates - there is no other choice, because in order to create, the mi
 
 Man has senses through which he gets to know the world, understands what is "required of him". By birth, the human mind is not even a mind, but only the embryo of one (see below), and it takes time to learn what it is supposed to imitate.
 
-In the language of "Emil" , the algorithm that introduces works and looks for dependencies in them is called "seed of reason" (ZR). (See also "Man and the Thinking Machine" (Analysis of the possibility of creating a Thinking Machine and some shortcomings of man and organic matter in front of it) , magazine "The Sacred Computer" no. 13, Dec. 2001)
+In the language of "Emil" , the algorithm that introduces works and looks for dependencies in them is called "seed of reason" (ZR, germ/embryo of reason/intelligence). (See also "Man and the Thinking Machine" (Analysis of the possibility of creating a Thinking Machine and some shortcomings of man and organic matter in front of it) , magazine "The Sacred Computer" no. 13, Dec. 2001)
 
 The germ/seed of reason is, for example, the human brain when it is in the body of a newborn child.
 
@@ -85,7 +85,7 @@ In general, creators will represent attempts to produce "germs/seeds of intellig
 
 Let us again briefly describe roughly what we mean by "germ/seed of intelligence/reason":
 
-A SEED OF REASON, SR: Coherent underlying algorithms that learn and execute new algorithms. For the work of the algorithms, for their "feeding", non-algorithmic memories - data - are also accumulated.
+**A SEED OF REASON, SR, Germ of Intelligence etc.:** Coherent underlying algorithms that learn and execute new algorithms. For the work of the algorithms, for their "feeding", non-algorithmic memories - data - are also accumulated.
 
 The purpose of "Reason", or "Emil" (many names can be used - for variety) is, as the experiments develop, the embryos become more "responsible" - their creativity can respond better to the input information; to better adapt to the art examples and worlds in which they are taught to exist; to answer direct inquiries...
  
@@ -96,7 +96,6 @@ In order to arrive at the Goal - intelligence comparable to human, the different
 © Todor Iliev Arnaudov (Tosh)
 Writer of "The Sacred Computer"
 Plovdiv, 4.5.2003 Read more articles by Tosh and other authors at http://bgit.net
-
 ...
 
 * See also "Letters betwen the 18-year old Todor Arnaudov and the philosopher Angel Grancharov", 9.2002 and the essay:
@@ -128,7 +127,6 @@ I suppose that after the Discovery and the creation of the MM, running on standa
 
 ...
 
-
 * October 2013: **"Creative Intelligence will be First Surpassed and Blown Away by the Thinking Machines, not the "low-skill" workers whose jobs require agile and quick physical motion and interactions with human-sized and human-shaped environment"**
 
 (...)
@@ -138,10 +136,6 @@ Perhaps that kind of economy could hardly survive the AGI revolution.
 I guess it may turn inside-out for a while - the low-skill workers could get higher pay, because [the] intellectual activities will be done in 1 ms for free... ;)_
 
 https://artificial-mind.blogspot.com/2013/10/creative-intelligence-will-be-first.html
-
-
-
-
 
 
 
