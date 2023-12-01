@@ -20,6 +20,8 @@ Compare e.g. to Todor Arnaudov, 5.2003:
 
 * http://www.oocities.org/eimworld/eim22n/eim23/emil04052003.htm
 * https://eim-twenkid-com.translate.goog/old/eim22n/eim23/emil04052003.htm?_x_tr_sl=bg&_x_tr_tl=en&_x_tr_hl=bg&_x_tr_pto=wapp
+* https://github.com/Twenkid/Theory-of-Universe-and-Mind/blob/main/Works/Creativity-imitation-algorithms-2003.odt
+  
 [Machine Translated with editions]
 
 Todor Arnaudov
