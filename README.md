@@ -27,7 +27,7 @@ _Todor with some of his best students after the course in 2010_<br>_See the syll
 <!-- ![image](https://github.com/Twenkid/Theory-of-Universe-and-Mind/assets/23367640/b69d2011-7823-4838-9f09-6aaf32f9b271) -->
 <img src="https://github.com/Twenkid/Theory-of-Universe-and-Mind/assets/23367640/b69d2011-7823-4838-9f09-6aaf32f9b271" width=33%>
 
-_Todor is flexing muscle after a workout on the gymnastics rings, displaying his athletic and "forever young*" self - 9-th of November 2023_
+_After a workout on the gymnastics rings, displaying Todor's athletic and "forever young*" self. 9-th Nov 2023_
 <!-- ![image](https://github.com/Twenkid/Theory-of-Universe-and-Mind/assets/23367640/ceabfa6e-cdc3-440a-8ec2-1797d7b921a7) -->
 <!-- <img src="https://github.com/Twenkid/Theory-of-Universe-and-Mind/assets/23367640/ceabfa6e-cdc3-440a-8ec2-1797d7b921a7" width=32%> -->
 
