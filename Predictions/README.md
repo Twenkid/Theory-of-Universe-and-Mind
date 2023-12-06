@@ -127,7 +127,7 @@ I suppose that after the Discovery and the creation of the MM, running on standa
 
 ...
 
-* October 2013: **"Creative Intelligence will be First Surpassed and Blown Away by the Thinking Machines, not the "low-skill" workers whose jobs require agile and quick physical motion and interactions with human-sized and human-shaped environment"**
+### October 2013: **"Creative Intelligence will be First Surpassed and Blown Away by the Thinking Machines, not the "low-skill" workers whose jobs require agile and quick physical motion and interactions with human-sized and human-shaped environment"**
 
 (...)
 
@@ -138,7 +138,24 @@ I guess it may turn inside-out for a while - the low-skill workers could get hig
 https://artificial-mind.blogspot.com/2013/10/creative-intelligence-will-be-first.html
 
 
+...
 
+### 27.4.2012, a letter to AGI List, predicting the soon coming breakthroughs in computer vision
+
+...answering claims about how difficult and unsolved image recognition was:
+
+"All you know is that "it's unsolved problem". I don't think so.
+I'd rather call it "unintegrated solution" or "unimplemented solution".
+(...)
+**IMHO those recognitions will become trivial tasks in a few years**"
+
+(Not that *these* specific recognition of ImageNet were complete human vision etc., but these level of competence wasn't generally expected either.)
+
+https://github.com/Twenkid/Theory-of-Universe-and-Mind/blob/main/Works/Artificial-Mind/AGI_2012_Chairs_Building_Caricatures_and_Object_Recognition_as_3D_Reconstruction.pdf
+
+![image](https://github.com/Twenkid/Theory-of-Universe-and-Mind/assets/23367640/e8f5d44f-7a36-4a4b-b2e6-a03047eeb005)
+
+Image from: https://youtu.be/GwHDAfAAKd4?t=1029
 
 
 
