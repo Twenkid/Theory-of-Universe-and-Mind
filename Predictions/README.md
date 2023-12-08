@@ -4,6 +4,7 @@
 
 ## Artificial Mind blog
 
+Everything is a work in progress, a lot to add and arrange ... 
 
 ## Predicting the Generative AI since the early 2000s
 
