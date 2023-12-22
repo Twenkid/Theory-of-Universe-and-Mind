@@ -5,7 +5,7 @@
 ### Todor's "Prophecies" | Todor's Predictions | The Bulgarian Predictions
 ## in Artificial General Intelligence (AGI), Digital Universe/The Universe Computer, Philosophy of AI and Mind, Speculative Cognitive Science, A unification of Universe, Mind, Computation, Cybernetical Evolution etc. 2001-2004 etc.
 
-###### [Version of the document: 20.12.2023: note about Lem "Summa Technologia" etc. in the intro. 20.11.2023: minor edits in the intro.; 1.8.2023: + Andy Clark, Max Ramstead links; "*" after words indicate footnotes; unsorted yet]
+###### [Version of the document: 22.12.2023*; "*" after words indicate footnotes; unsorted yet]
 
 __Todor Arnaudov's *"Theory of Universe and Mind"* - a body of work, originally published between 2001-2004*, when the author was still a teenager__ without any peers or a supervisor - is a general abstract cognitive "theory of everything", unifying Cybernetical Digital Physics Cosmology and Evolution of the Universe with (Artificial) General Intelligence and Philosophy of Mind, defining the so called Causality-Control Units, hierarchical and compositional "Universal simulators of virtual universes" with their sub-universes, universes at different levels, mother-and-child universes/machines etc. as universal building blocks for agency, computation and cognition at all levels of scale, ranges, precision etc.; computation, human/agent's (causality-control units') motivation and drives, behavior, decision making, reinforcement learning, society, reality, imagination, creativity (...); one of the main principles of the development of the Universe and Mind (causality-control units), respectively of the general intelligence, is the hierarchical prediction-causation of the future, based on the past, in ever increasing ranges and precisions, reliability, modalities etc. General intelligence/Mind is a system performing multi-scale, multi-range, multi-precision, multi-modality, multi-domain ... hierarchical prediction-causation of the future, implying the creation and operaton of universal simulators of virtual universes.
 
@@ -466,3 +466,5 @@ The book: http://pcp.vub.ac.be/POSBOOK.html
 Early cyberneticians: Norbert Wiener, William Ross Ashby, Heinz von Foerster etc.
  https://en.wikipedia.org/wiki/Summa_Technologiae
 https://ru.wikipedia.org/wiki/%D0%A1%D1%83%D0%BC%D0%BC%D0%B0_%D1%82%D0%B5%D1%85%D0%BD%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D0%B8
+
+* Versions history: 22.12.2023: Intro/links/invite... 20.12.2023: Note about Lem "Summa Technologia" etc. in the intro and a footnote. 20.11.2023: minor edits in the intro.; 1.8.2023: + Andy Clark, Max Ramstead links ...
