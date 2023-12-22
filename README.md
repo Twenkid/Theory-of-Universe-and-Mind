@@ -1,3 +1,5 @@
+![image](https://github.com/Twenkid/Theory-of-Universe-and-Mind/assets/23367640/e6e453b9-ffc7-41e7-99eb-ea80bbb12a1e)
+
 # Theory of Universe and Mind <br>
 #### a.k.a. 
 ### Todor's "Prophecies" | Todor's Predictions | The Bulgarian Predictions
@@ -14,6 +16,8 @@ __Todor Arnaudov's *"Theory of Universe and Mind"* - a body of work, originally 
 #### ... etc. and many other cases of matches as these ideas get rediscovered, confirmed and adopted by many researchers in many fields, including, broadly, in practical applications the universal prediction principle of the transformers architecture in Machine learning. [See a longer list below when completed and in the book: "The Prophets of the Thinking machines: Artificial General Intelligence and Transhumanism: History, Theory and Pioneers" by T.A., announced in 2020, yet unpublished officially.
 
 * TOUM and the related theories are also extensions and sometimes rediscoveries of the reasoning of Cybernetics as well as ideas generalized and expressed by Stanislav Lem in his "Summa Technologiae", 1963-1964*.
+
+* You can help me in my (our) research and collaborate theoretically and in the development, joining one of the oldest AGI & Transhumanism Institutes <a href="http://artificial-mind.blogspot.com">The Sacred Computer</a> founded in 2000 and join any of the projects, e.g. in the development of the AGI infrastructure project <a href="https://github.com/Twenkid/Vsy-Jack-Of-All-Trades-AGI-Bulgarian-Internet-Archive-And-Search-Engine">Jack of All Trades</a> and its many subprojects and directions; the intelligent dictionary <a href="https://github.com/Twenkid/Smarty">"Smarty"</a> (it should be modernized and extended with LLMs and other types of search and generation, merged with another yet unpublished Research Assistant "ACS" prototype used "inhouse), I should start publishing and implementing 2010s+ language of thought Zrim etc. See the prospective virtual/online conference <a href="https://github.com/Twenkid/SIGI-2024">SIGI 2024</a> which is looking for co-organizers and participants. 
 
 ![image](https://github.com/Twenkid/Theory-of-Universe-and-Mind/assets/23367640/56b471b5-1a82-4a0d-87ce-418cf880e84c)
 
