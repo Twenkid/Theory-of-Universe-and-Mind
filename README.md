@@ -27,16 +27,15 @@ _The front page of the slides from the lecture about TOUA from the world's first
 _Todor with some of his best students after the course in 2010_<br>_See the syllabus of the course, info, a few reviews and a video: http://artificial-mind.blogspot.com/2010/04/universal-artificial-intelligence.html_
 
 <!-- ![image](https://github.com/Twenkid/Theory-of-Universe-and-Mind/assets/23367640/b04d0625-d64d-45b1-9cf1-35094f0078b3) -->
-<img src="https://github.com/Twenkid/Theory-of-Universe-and-Mind/assets/23367640/b04d0625-d64d-45b1-9cf1-35094f0078b3" width=33%>
+<img src="https://github.com/Twenkid/Theory-of-Universe-and-Mind/assets/23367640/b04d0625-d64d-45b1-9cf1-35094f0078b3" width=30%>
 <!-- ![image](https://github.com/Twenkid/Theory-of-Universe-and-Mind/assets/23367640/b8b0e7f8-955b-4081-af9a-197bea525081) -->
-<img src="https://github.com/Twenkid/Theory-of-Universe-and-Mind/assets/23367640/b8b0e7f8-955b-4081-af9a-197bea525081" width=33%>
+<img src="https://github.com/Twenkid/Theory-of-Universe-and-Mind/assets/23367640/b8b0e7f8-955b-4081-af9a-197bea525081" width=30%>
 <!-- ![image](https://github.com/Twenkid/Theory-of-Universe-and-Mind/assets/23367640/b69d2011-7823-4838-9f09-6aaf32f9b271) -->
-<img src="https://github.com/Twenkid/Theory-of-Universe-and-Mind/assets/23367640/b69d2011-7823-4838-9f09-6aaf32f9b271" width=33%>
+<img src="https://github.com/Twenkid/Theory-of-Universe-and-Mind/assets/23367640/b69d2011-7823-4838-9f09-6aaf32f9b271" width=30%>
 
 _After a workout on the gymnastics rings, displaying Todor's athletic and "forever young*" self. 9-th Nov 2023_
 <!-- ![image](https://github.com/Twenkid/Theory-of-Universe-and-Mind/assets/23367640/ceabfa6e-cdc3-440a-8ec2-1797d7b921a7) -->
 <!-- <img src="https://github.com/Twenkid/Theory-of-Universe-and-Mind/assets/23367640/ceabfa6e-cdc3-440a-8ec2-1797d7b921a7" width=32%> -->
-
 
 
 ### <a href="http://github.com/Twenkid">Todor is looking for partners, see the Github intro and the book cited there</a>
