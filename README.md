@@ -33,7 +33,7 @@ _Todor with some of his best students after the course in 2010_<br>_See the syll
 <!-- ![image](https://github.com/Twenkid/Theory-of-Universe-and-Mind/assets/23367640/b69d2011-7823-4838-9f09-6aaf32f9b271) -->
 <img src="https://github.com/Twenkid/Theory-of-Universe-and-Mind/assets/23367640/b69d2011-7823-4838-9f09-6aaf32f9b271" width=30%>
 
-_After a workout on the gymnastics rings, displaying Todor's athletic and "forever young*" self. 9-th Nov 2023_
+_After a workout on the gymnastics rings, displaying the results from Todor's "Forever young" program*. 9-th Nov 2023_
 <!-- ![image](https://github.com/Twenkid/Theory-of-Universe-and-Mind/assets/23367640/ceabfa6e-cdc3-440a-8ec2-1797d7b921a7) -->
 <!-- <img src="https://github.com/Twenkid/Theory-of-Universe-and-Mind/assets/23367640/ceabfa6e-cdc3-440a-8ec2-1797d7b921a7" width=32%> -->
 
@@ -466,4 +466,6 @@ Early cyberneticians: Norbert Wiener, William Ross Ashby, Heinz von Foerster etc
  https://en.wikipedia.org/wiki/Summa_Technologiae
 https://ru.wikipedia.org/wiki/%D0%A1%D1%83%D0%BC%D0%BC%D0%B0_%D1%82%D0%B5%D1%85%D0%BD%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D0%B8
 
-* Versions history: 22.12.2023: Intro/links/invite... 20.12.2023: Note about Lem "Summa Technologia" etc. in the intro and a footnote. 20.11.2023: minor edits in the intro.; 1.8.2023: + Andy Clark, Max Ramstead links ...
+* My "Forever Young" program is not inspired by Bryan Johnson's "Blueprint", but it happened that there are similarities in some aspects, such as the macronutrients ratios, intermittent fasting etc., however it is rather opposite in others and the natrios happened to be such from the beginning when I started to record and measure (July 2022) while my "program", less formal, was at least since ~ May-June 2021. (...) I haven't published data yet. A few notes: https://artificial-mind.blogspot.com/2023/11/genius-by-verses-ai-intelligence-as.html
+
+* Versions history: +... 22.12.2023: Intro/links/invite... 20.12.2023: Note about Lem "Summa Technologia" etc. in the intro and a footnote. 20.11.2023: minor edits in the intro.; 1.8.2023: + Andy Clark, Max Ramstead links ...
