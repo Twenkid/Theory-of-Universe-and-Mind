@@ -15,7 +15,9 @@ __Todor Arnaudov's *"Theory of Universe and Mind"* - a body of work, originally 
 
 #### ... etc. and many other cases of matches as these ideas get rediscovered, confirmed and adopted by many researchers in many fields, including, broadly, in practical applications the universal prediction principle of the transformers architecture in Machine learning. [See a longer list below when completed and in the book: "The Prophets of the Thinking machines: Artificial General Intelligence and Transhumanism: History, Theory and Pioneers" by T.A., announced in 2020, yet unpublished officially.
 
-* TOUM and the related theories are also extensions and sometimes rediscoveries of the philosophy of the Cybernetics as well as ideas generalized and expressed by Stanislav Lem in his "Summa Technologiae", 1963-1964*, who is also citing Ross Ashby.
+* TOUM and the related theories are also extensions and sometimes rediscoveries of the philosophy of the Cybernetics as well as ideas generalized and expressed by Stanislav Lem in his "Summa Technologiae", 1963-1964*, who is also citing Ross Ashby. 
+
+* Stephen Grossberg and Gail Carpenter's ART - Adaptive Resonance Thery - is also a predecessor of the predictive processing theories for cognition in the brain*.
 
 * You can help me in my (our) research and collaborate theoretically and in the development, joining one of the oldest AGI & Transhumanism Institutes <a href="http://artificial-mind.blogspot.com">The Sacred Computer</a> founded in 2000 and join any of the projects, e.g. in the development of the AGI infrastructure project <a href="https://github.com/Twenkid/Vsy-Jack-Of-All-Trades-AGI-Bulgarian-Internet-Archive-And-Search-Engine">Jack of All Trades</a> and its many subprojects and directions; the intelligent dictionary <a href="https://github.com/Twenkid/Smarty">"Smarty"</a> (it should be modernized and extended with LLMs and other types of search and generation, merged with another yet unpublished Research Assistant "ACS" prototype used "inhouse), I should start publishing and implementing 2010s+ language of thought Zrim etc. See the prospective virtual/online conference <a href="https://github.com/Twenkid/SIGI-2024">SIGI 2024</a> which is looking for co-organizers and participants. 
 
@@ -476,4 +478,9 @@ https://ru.wikipedia.org/wiki/%D0%A1%D1%83%D0%BC%D0%BC%D0%B0_%D1%82%D0%B5%D1%85%
 
 * My "Forever Young" program is not inspired by Bryan Johnson's "Blueprint", but it happened that there are similarities in some aspects, such as the macronutrients ratios, intermittent fasting etc., however it is rather opposite in others and the ratios happened to be such from the beginning when I started to record and measure (July 2022) while my "program", in the initial adjustments and without recording was at least since ~ May-June 2021. (...) I don't take "100 pills a day" and I haven't published data yet. A few notes: https://artificial-mind.blogspot.com/2023/11/genius-by-verses-ai-intelligence-as.html
 
+* S.Grossberg, G.Carpenter. See for example a <a href="https://web.archive.org/web/20060519091848/http://cns.bu.edu/Profiles/Grossberg/CarGroRey1991NN.pdf">Carpenter, G.A., Grossberg, S., & Reynolds, J.H. (1991), ARTMAP: Supervised real-time learning and classification of nonstationary data by a self-organizing neural network </a>   https://en.wikipedia.org/wiki/Stephen_Grossberg     https://en.wikipedia.org/wiki/Gail_Carpenter 
+
+( * We don't forget or ignore: Rao and Ballard, 1999 etc. or others which are cited by the authors of the other works and have received their credit. )
+
 * Versions history: +... 22.12.2023: Intro/links/invite... 20.12.2023: Note about Lem "Summa Technologia" etc. in the intro and a footnote. 20.11.2023: minor edits in the intro.; 1.8.2023: + Andy Clark, Max Ramstead links ...
+
