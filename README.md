@@ -1,5 +1,5 @@
 ![image](https://github.com/Twenkid/Theory-of-Universe-and-Mind/assets/23367640/e6e453b9-ffc7-41e7-99eb-ea80bbb12a1e)
-
+**The Sacred Computer AGI Institute: Thinking Machines, Creativity and Human Development: Created in 2000**
 # Theory of Universe and Mind <br>
 #### a.k.a. 
 ### Todor's "Prophecies" | Todor's Predictions | The Bulgarian Predictions
