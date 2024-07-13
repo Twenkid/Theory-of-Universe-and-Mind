@@ -53,7 +53,9 @@ _Todor with some of his best students after the course in 2010_<br>_See the syll
 <!-- <img src="https://github.com/Twenkid/Theory-of-Universe-and-Mind/assets/23367640/ceabfa6e-cdc3-440a-8ec2-1797d7b921a7" width=40%> -->
 
 
-### <a href="http://github.com/Twenkid">Todor is looking for partners, see the Github intro and the book cited there</a>
+### <a href="http://github.com/Twenkid">The Sacred Computer virtual institute for Thinking Machines, Creativity and Human Development is looking for partners. Any help is welcome. See the Github intro and the book cited there.</a>
+
+* A much bigger and detailed list and a more elaborate comparisons and discussion in the book "The Prophets of the Thinking Machines: AGI & Transhumanism: History, Theory and Pioneers", whhen it is published. Some more in "Universe and Mind 6".
 
 ## Notes on matches
 
