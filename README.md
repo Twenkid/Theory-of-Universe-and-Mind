@@ -44,11 +44,15 @@ _Todor with some of his best students after the course in 2010_<br>_See the syll
 <!-- ![image](https://github.com/Twenkid/Theory-of-Universe-and-Mind/assets/23367640/b69d2011-7823-4838-9f09-6aaf32f9b271) -->
 
 <img src="https://github.com/Twenkid/Theory-of-Universe-and-Mind/assets/23367640/b69d2011-7823-4838-9f09-6aaf32f9b271" width=35%>
+<!--
 <img src="https://github.com/Twenkid/Theory-of-Universe-and-Mind/assets/23367640/f5a527a9-4dc3-46be-aecc-3de7300dd111" width=30%>
 <img src="https://github.com/Twenkid/Theory-of-Universe-and-Mind/assets/23367640/939be2fd-9599-4c5e-a2bf-3d07d7ddf23f" width=30%>
+-->
 
 * Left: _After a workout on the gymnastics rings, displaying the results from Todor's "Forever young" program*. 9-th Nov 2023_ (at the time: only dips on rings)
+<!--  
 * Right: _Working on the Iron Cross, 10.6.2024 / 25.6.2024: Iron Cross with a cross-press back to L-sit (difficulty level: C in competitive gymnastics)_ (The corss is yet in progress with a deduction due the angle (<30 degrees)).
+-->
 <!-- ![image](https://github.com/Twenkid/Theory-of-Universe-and-Mind/assets/23367640/ceabfa6e-cdc3-440a-8ec2-1797d7b921a7) -->
 <!-- <img src="https://github.com/Twenkid/Theory-of-Universe-and-Mind/assets/23367640/ceabfa6e-cdc3-440a-8ec2-1797d7b921a7" width=40%> -->
 
