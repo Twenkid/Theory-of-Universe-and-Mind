@@ -1,10 +1,15 @@
 ![image](https://github.com/Twenkid/Theory-of-Universe-and-Mind/assets/23367640/e6e453b9-ffc7-41e7-99eb-ea80bbb12a1e)
+
 **The Sacred Computer AGI Institute: Thinking Machines, Creativity and Human Development: Created in 2000**
 
+ * <a href="https://github.com/Twenkid/SIGI-2025">Self-Improving General Intelligence 2025</a> aka "Thinking Machines 2025" - year-long virtual conference
+ * <a href="https://github.com/Twenkid/Vsy-Jack-Of-All-Trades-AGI-Bulgarian-Internet-Archive-And-Search-Engine">Vsy (Вседържец)</a> the (the public) AGI infrastructure project of the Sacred Computer
+* <a href="https://github.com/Twenkid/Vsy">The Prophets of the Thinking Machines: Artificial General Intelligence and Transhumanism: History, Theory and Pioneers; Past, Present and Future</a> a biblical work, >3000 pages. Some of the appendicies were already published at SIGI-2025, one earlier in 2020. The bulk of the work is still being updated with details and the first editions of the rest of the volumes will be published in the near weeks and months this yea.r [29.8.2025]
+ 
 **Contact me if you want to support or join the research**
+
 # Theory of Universe and Mind <br>
-#### a.k.a. 
-### Todor's "Prophecies" | Todor's Predictions | The Bulgarian Predictions
+### a.k.a. Todor's "Prophecies" | Todor's Predictions | The Bulgarian Predictions
 ## in Artificial General Intelligence (AGI), Digital Universe/The Universe Computer, Philosophy of AI and Mind, Speculative Cognitive Science, A unification of Universe, Mind, Computation, Cybernetical Evolution etc. 2001-2004 etc.
 
 ###### [Version of the document: 22.12.2023*; "*" after words indicate footnotes; unsorted yet]
@@ -13,15 +18,21 @@ __Todor Arnaudov's *"Theory of Universe and Mind"* - a body of work, originally 
 
 * Look forward to "Universe and Mind 6" coming soon. 
 
-#### TOUM was ahead and a predecessor, from years to up to TWO DECADES, of a big family of analogical, related, similar or in some POV essentially the same - as of principles, concepts*, reasoning, predictions - theories, interdisciplinary or in AI/AGI/Cognitive Science/Psychology-AI philosophy etc., which were later presented and accepted as groundbreaking, new, radical, novel, contributive, "the future of AI/AGI" etc. such as: R.Grush's Emulation theory of representation (6/2004), Karl Friston's Free Energy Principle/Active Inference and the works of his colleagues and students and related works (Andy Clarks's, Maxwell Ramstead; Kirchoff; etc.), Michael Levin's set of concepts and views towards Technnological-Approach-To-Mind-Everywhere-(TAME) (intelligence is everywhere, not just in the brain); Cognitive-Light Cone - Scale-Free Cogntion/Computational Boundary of a Self, Body/the organisms as a "swarm" of multilevel, multiscale, multitimerange entities which are in a nested interactive hierarchy; many of Joscha Bach's views; Bobby Azarian's 2022 book; the principles of consciousness of Ogi Ogas and Sai Gaddam's from "Journey of the Mind: How Thinking Emerged from Chaos"*, 2022; Yosha Bengio's 2017-2018 "Consciousness Prior"; LeCun's "A Path Towards Autonomous Machine Intelligence", 2022; the umbrealla term "Diverse Intelligence"; "empowerment" as a universal measure of intelligence etc.
+#### TOUM or TUM was ahead and a predecessor, from years to up to TWO DECADES, of a big family of analogical, related, similar or in some POV essentially the same - as of principles, concepts*, reasoning, predictions - theories, interdisciplinary or in AI/AGI/Cognitive Science/Psychology-AI philosophy etc., which were later presented and accepted as groundbreaking, new, radical, novel, contributive, "the future of AI/AGI" etc. such as: R.Grush's Emulation theory of representation (6/2004), Karl Friston's Free Energy Principle/Active Inference and the works of his colleagues and students and related works (Andy Clarks's, Maxwell Ramstead; Kirchoff; etc.), Michael Levin's set of concepts and views towards Technnological-Approach-To-Mind-Everywhere-(TAME) (intelligence is everywhere, not just in the brain); Cognitive-Light Cone - Scale-Free Cogntion/Computational Boundary of a Self, Body/the organisms as a "swarm" of multilevel, multiscale, multitimerange entities which are in a nested interactive hierarchy; many of Joscha Bach's views; Bobby Azarian's 2022 book; the principles of consciousness of Ogi Ogas and Sai Gaddam's from "Journey of the Mind: How Thinking Emerged from Chaos"*, 2022; Yosha Bengio's 2017-2018 "Consciousness Prior"; LeCun's "A Path Towards Autonomous Machine Intelligence", 2022; the umbrealla term "Diverse Intelligence"; "empowerment" as a universal measure of intelligence etc.
 
 #### ... etc. and many other cases of matches as these ideas get rediscovered, confirmed and adopted by many researchers in many fields, including, broadly, in practical applications the universal prediction principle of the transformers architecture in Machine learning. [See a longer list below when completed and in the book: "The Prophets of the Thinking machines: Artificial General Intelligence and Transhumanism: History, Theory and Pioneers" by T.A., announced in 2020, yet unpublished officially.
+
+<blockquote>Note 29.8.2025: Latest discovery: works by Michael Bennett also rediscover motives from TUM, e.g. a claim that there's no sharp border between software and hardware, hardware is the lower level from the POV of the current; the pancomputationalistm (which is more and more common already) and that everything serves as memory and for computation. That "time is change" (see e.g. Universe and Mind 3 in 2003, point 11; also UnM-4, p. 12-13 (...)"; etc. (There are some differences as the love of formulas and theorems, expressed with caligraphic fonts etc. which TUM lacked and didn't find necessary). I found these works today via a video from MLST and read quickly his papers, more detailed comparison later and in _The Prophets_.
+
+This page also not updated, possibly split etc, but I've been too busy to explore and work on other things. I wrote Universe and Mind 6 in mid 2023, but as I wanted to complete other things and parts, it's still not finished and published. In the mean time in 2024 I wrote a related small monograph called "Is Mortal Computation Required for Creation of Universal Thinking Machines?", answering Ororbia and Friston's paper. This one which was published at SIGI-2025 (but for now it is in Bulgarian, you may try machine translation). In brief - not just "motral computation" is not required for thinking machines, but according to my interpretation and analysis these notions are ill-defined, as is one of their motive "efficiency" - as TOUM also stated even in 2001, it is questionable whether cells are more complex than machines, and in this paper I argue that "efficiency" is often confused and is based on selective or falsified accounting. Etc. </blockquote>
+
+<!-- . In UnM-3: that time is the clock of the "Universe Computer" and the period is the minimal change that can happen  -->
 
 * TOUM and the related theories are also extensions and sometimes rediscoveries of the philosophy of the Cybernetics as well as ideas generalized and expressed by Stanislav Lem in his "Summa Technologiae", 1963-1964*, who is also citing Ross Ashby. 
 
 * Stephen Grossberg and Gail Carpenter's ART - Adaptive Resonance Thery - is also a predecessor of the predictive processing theories for cognition in the brain*.
 
-* You can help me in my (our) research and collaborate theoretically and in the development, joining one of the oldest AGI & Transhumanism Institutes <a href="http://artificial-mind.blogspot.com">The Sacred Computer</a> founded in 2000 and join any of the projects, e.g. in the development of the AGI infrastructure project <a href="https://github.com/Twenkid/Vsy-Jack-Of-All-Trades-AGI-Bulgarian-Internet-Archive-And-Search-Engine">Jack of All Trades</a> and its many subprojects and directions; the intelligent dictionary <a href="https://github.com/Twenkid/Smarty">"Smarty"</a> (it should be modernized and extended with LLMs and other types of search and generation, merged with another yet unpublished Research Assistant "ACS" prototype used "inhouse), I should start publishing and implementing 2010s+ language of thought Zrim etc. See the prospective virtual/online conference <a href="https://github.com/Twenkid/SIGI-2024">SIGI 2024</a> which is looking for co-organizers and participants. 
+* You can help me in my (our) research and collaborate theoretically and in the development, joining one of the oldest AGI & Transhumanism Institutes <a href="http://artificial-mind.blogspot.com">The Sacred Computer</a> founded in 2000 and join any of the projects, e.g. in the development of the AGI infrastructure project <a href="https://github.com/Twenkid/Vsy-Jack-Of-All-Trades-AGI-Bulgarian-Internet-Archive-And-Search-Engine">Jack of All Trades</a> and its many subprojects and directions; the intelligent dictionary <a href="https://github.com/Twenkid/Smarty">"Smarty"</a> (it should be modernized and extended with LLMs and other types of search and generation, merged with another yet unpublished Research Assistant "ACS" prototype used "inhouse), I should start publishing and implementing 2010s+ language of thought Zrim etc. See the prospective virtual/online conference <a href="https://github.com/Twenkid/SIGI-2025">SIGI 2025</a> which is looking for co-organizers and participants. 
 
 ![image](https://github.com/Twenkid/Theory-of-Universe-and-Mind/assets/23367640/56b471b5-1a82-4a0d-87ce-418cf880e84c)
 
@@ -44,17 +55,25 @@ _Todor with some of his best students after the course in 2010_<br>_See the syll
 <!-- ![image](https://github.com/Twenkid/Theory-of-Universe-and-Mind/assets/23367640/b69d2011-7823-4838-9f09-6aaf32f9b271) -->
 
 <img src="https://github.com/Twenkid/Theory-of-Universe-and-Mind/assets/23367640/b69d2011-7823-4838-9f09-6aaf32f9b271" width=35%>
+<img width="559" height="997" alt="image" src="https://github.com/user-attachments/assets/aebcf9ce-d64a-410c-98be-9be18550e4fa"  width=25% />
+
+
 <!--
 <img src="https://github.com/Twenkid/Theory-of-Universe-and-Mind/assets/23367640/f5a527a9-4dc3-46be-aecc-3de7300dd111" width=30%>
 <img src="https://github.com/Twenkid/Theory-of-Universe-and-Mind/assets/23367640/939be2fd-9599-4c5e-a2bf-3d07d7ddf23f" width=30%>
 -->
 
-* Left: _After a workout on the gymnastics rings, displaying the results from Todor's "Forever young" program*. 9-th Nov 2023_ (at the time: only dips on rings)
+* Left: _After a workout on the gymnastics rings, displaying the results from Todor's **"Forever young" program***. 9-th Nov 2023_ (at the time: only dips on rings)
+* Right: Front Lever on Rings a bit less than 2 seconds hold, 8.7.2025. An exercise for elite teenagers and advanced young men. More info about my developing "protocol" in the future. Compare with: Bryan Johnson's "Blueprint", but mine is without the supplements, technology and $$$.
+<!-- I don't use supplements, besides low dose of Mg coming with B6 etc., sometimes 0, and very rarely singular pills of Vitamin B-complex. I feel fine I don't. -->
 <!--  
 * Right: _Working on the Iron Cross, 10.6.2024 / 25.6.2024: Iron Cross with a cross-press back to L-sit (difficulty level: C in competitive gymnastics)_ (The corss is yet in progress with a deduction due the angle (<30 degrees)).
 -->
 <!-- ![image](https://github.com/Twenkid/Theory-of-Universe-and-Mind/assets/23367640/ceabfa6e-cdc3-440a-8ec2-1797d7b921a7) -->
 <!-- <img src="https://github.com/Twenkid/Theory-of-Universe-and-Mind/assets/23367640/ceabfa6e-cdc3-440a-8ec2-1797d7b921a7" width=40%> -->
+
+
+
 
 
 ### <a href="http://github.com/Twenkid">The Sacred Computer virtual institute for Thinking Machines, Creativity and Human Development is looking for partners. Any help is welcome. See the Github intro and the book cited there.</a>
