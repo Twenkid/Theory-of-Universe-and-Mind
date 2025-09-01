@@ -64,7 +64,7 @@ _Todor with some of his best students after the course in 2010_<br>_See the syll
 -->
 
 * Left: _After a workout on the gymnastics rings, displaying the results from Todor's **"Forever young" program***. 9-th Nov 2023_ (at the time: only dips on rings)
-* Right: Front Lever on Rings a bit less than 2 seconds hold, 8.7.2025. An exercise for elite teenagers and advanced young men. More info about my developing "protocol" in the future. Compare with: Bryan Johnson's "Blueprint", but mine is without the supplements, technology and $$$.
+* Right: Front Lever on Rings a bit less than 2 seconds hold, 8.7.2025. An exercise for elite teenagers and advanced young men. More info about my developing "protocol" in the future. Compare with: Bryan Johnson's "Blueprint", but mine is without the supplements, technology and $$$. Video: https://www.youtube.com/watch?v=uO0dAgP38SY
 <!-- I don't use supplements, besides low dose of Mg coming with B6 etc., sometimes 0, and very rarely singular pills of Vitamin B-complex. I feel fine I don't. -->
 <!--  
 * Right: _Working on the Iron Cross, 10.6.2024 / 25.6.2024: Iron Cross with a cross-press back to L-sit (difficulty level: C in competitive gymnastics)_ (The corss is yet in progress with a deduction due the angle (<30 degrees)).
