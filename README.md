@@ -3,8 +3,8 @@
 **The Sacred Computer AGI Institute: Thinking Machines, Creativity and Human Development: Created in 2000**
 
  * <a href="https://github.com/Twenkid/SIGI-2025">Self-Improving General Intelligence 2025</a> aka "Thinking Machines 2025" - year-long virtual conference
- * <a href="https://github.com/Twenkid/Vsy-Jack-Of-All-Trades-AGI-Bulgarian-Internet-Archive-And-Search-Engine">Vsy (Вседържец)</a> the (the public) AGI infrastructure project of the Sacred Computer
-* <a href="https://github.com/Twenkid/Vsy">The Prophets of the Thinking Machines: Artificial General Intelligence and Transhumanism: History, Theory and Pioneers; Past, Present and Future</a> a biblical work, >3000 pages. Some of the appendicies were already published at SIGI-2025, one earlier in 2020. The bulk of the work is still being updated with details and the first editions of the rest of the volumes will be published in the near weeks and months this yea.r [29.8.2025]
+ * <a href="https://github.com/Twenkid/Vsy-Jack-Of-All-Trades-AGI-Bulgarian-Internet-Archive-And-Search-Engine">Vsy (Вседържец)</a> the (the public) AGI infrastructure project of the Sacred Computer; another link <a href="https://github.com/Twenkid/Vsy">Vsy</a>
+* The hyperbook: <a href="https://github.com/Twenkid/sigi-2025">The Prophets of the Thinking Machines: Artificial General Intelligence and Transhumanism: History, Theory and Pioneers; Past, Present and Future</a> a biblical work, ~4600-4800 <s>3000</s> pages. Some of the appendicies were already published at SIGI-2025, one earlier in 2020. The bulk of the work is still being updated with details and the first editions of the rest of the volumes will be published in the near weeks and months this year [published until January 2026] To be continued in "Genesis: Creating Thinking Machines".
  
 **Contact me if you want to support or join the research**
 
